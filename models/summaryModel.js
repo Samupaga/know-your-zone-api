@@ -8,7 +8,7 @@ class Summary {
     }
 
     static async getOneByName(boroughName) {
-        const rentalResponse = await RentalData.latestRentalDataByBorough(boroughName)
+        const rentalResponse = await RentalData.getRentByBorough(boroughName)
         console.log(rentalResponse)
         return new Summary(boroughName, rentalResponse.rent_median);
     }
