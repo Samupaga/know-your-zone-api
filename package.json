@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "nodemon -L index.js",
     "start": "node index.js",
-    "setup-db": "node ./data/database/setup-db.js"
+    "setup-db-rent": "node ./data/database/setup-db-rent.js",
+    "setup-db-crime": "node ./data/database/setup-db-crime.js"
   },
   "repository": {
     "type": "git",
@@ -26,7 +27,8 @@
     "pg": "^8.8.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.20",
-    "csv": "^6.2.2"
+    "csv": "^6.2.2",
+    "minimist": "^1.2.7",
+    "nodemon": "^2.0.20"
   }
 }
