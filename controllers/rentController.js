@@ -21,6 +21,17 @@ async function show (req, res) {
     }
 };
 
+// Get rent info for different accomodation in each borough 
+async function showAccom (req, res) {
+    try {
+        const name = req.params.borough
+        const borough = await RentalData.getRentPerCategoryByBorough(name)
+        res.status(200).json(borough)
+    } catch (err) {
+        res.status(404).json({'error': err.message})
+    }
+};
+
 module.exports = {
-    show, showLondon
+    show, showLondon, showAccom
 };
