@@ -1,15 +1,15 @@
 const express = require('express');
 const cors = require('cors');
-const cookieParser = require("cookie-parser");
 
 const logRoute = require("./middleware/route-logger");
-const entryRouter = require("./routes/entryRoutes")
+const summaryRouter = require("./routers/summaryRouter")
+// const rentRouter = require("./routers/rentRouter")
+// const crimeRouter = require("./routers/crimeRouter")
 const api = express();
 
 function setupMiddleware(api) {
     api.use(express.json());
     api.use(cors());
-    api.use(cookieParser())
     api.use(logRoute);
 }
 
@@ -22,7 +22,8 @@ api.get("/", (req, res) => {
     })
 })
 
-api.use("/entries", entryRouter);
-api.use("/users", userRouter);
+api.use("/summary", summaryRouter); // summary route
+// api.use("/rent", rentRouter); // rent route
+// api.use("/crime", crimeRouter); // crime route
 
 module.exports = api;
