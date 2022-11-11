@@ -1,9 +1,9 @@
 const { Router } = require('express');
 
-const boroughController = require('../controllers/summaryController.js')
+const summaryController = require('../controllers/summaryController.js')
 
 const summaryRouter = Router()
 
-summaryRouter.get('/:borough', boroughController.show)
+summaryRouter.get('/:borough', summaryController.show)
 
 module.exports = summaryRouter;
