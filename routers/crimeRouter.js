@@ -4,6 +4,6 @@ const crimeController = require('../controllers/crimeController');
 
 const crimeRouter = Router();
 
-crimeRouter.get('/:borough', crimeController.show); 
+crimeRouter.get('/:borough/average/latest', crimeController.showLatestAverage); 
 
 module.exports = crimeRouter; 
