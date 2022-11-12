@@ -18,7 +18,7 @@ async function addData (dataCategory) {
         fs.readFile(`data/data-cleaning/converted_data/${dataCategory}_data.csv`, (err, data) => {
             parse(data, {columns:false, trim:true}, async (err, rows) => {
                 rowData = rows.slice(1)
-                for (row of rows.slice(1)) {
+                for (const row of rows.slice(1)) {
                     const boroughId = boroughs[row[0]]
                     if (dataCategory === "ethnicity") {
                         await db.query("INSERT INTO ethnicity_data (borough_id, white, asian, black, other, total_population) VALUES ($1, $2, $3, $4, $5, $6)", [boroughId
@@ -27,6 +27,8 @@ async function addData (dataCategory) {
                         await db.query("INSERT INTO religion_data (borough_id, christian, buddhist, hindu, jewish, muslim, sikh, other_religion, no_religion, total) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10)", [boroughId, row[1], row[2], row[3], row[4], row[5], row[6], row[7], row[8], row[9]])
                     } else if (dataCategory === 'wellbeing') {
                         await db.query("INSERT INTO wellbeing_data (borough_id, life_satisfaction, worthwhile, happiness, anxiety, inverted_anxiety, wellbeing) VALUES ($1, $2, $3, $4, $5, $6, $7)", [boroughId, row[1], row[2], row[3], row[4], row[5], row[6]])
+                    } else if (dataCategory === 'rent') {
+                        await db.query("INSERT INTO rental_data (borough_id, period_start_date, period_end_date, property_type, rent_median, rent_mean) VALUES ($1, $2, $3, $4, NULLIF($5, '')::real, NULLIF($6, '')::real)", [boroughId, row[3], row[4], row[5], row[2], row[1]])
                     }
                 }
             })
