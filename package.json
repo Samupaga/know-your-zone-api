@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "nodemon -L index.js",
     "start": "node index.js",
+    "delete-db-tables": "node ./data/database/delete-db-tables.js",
     "setup-db-borough": "node ./data/database/setup-db-borough.js",
     "setup-db-rent": "node ./data/database/setup-db-generic.js rent",
     "setup-db-crime": "node ./data/database/setup-db-generic.js crime", 
