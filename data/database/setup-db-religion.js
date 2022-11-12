@@ -14,7 +14,7 @@ const religionData = fs.readFile('data/data-cleaning/converted_data/religion_dat
         rowData = rows.slice(1)
         for (row of rowData) {
             // console.log(row)
-            await db.query("INSERT INTO religion_data (borough_name, christian, buddhist, hindu, jewish, muslim, sikh, other, no_religion, total) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10)", [row[0], row[1], row[2], row[3], row[4], row[5], row[6], row[7], row[8], row[9]])
+            await db.query("INSERT INTO religion_data (borough_name, christian, buddhist, hindu, jewish, muslim, sikh, other_religion, no_religion, total) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10)", [row[0], row[1], row[2], row[3], row[4], row[5], row[6], row[7], row[8], row[9]])
         }
     })
 })

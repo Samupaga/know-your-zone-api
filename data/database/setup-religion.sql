@@ -9,7 +9,7 @@ CREATE TABLE religion_data (
     jewish INT, 
     muslim	INT,
     sikh INT,
-    other INT,
+    other_religion INT,
     no_religion INT,	
     total INT,
     PRIMARY KEY (id)

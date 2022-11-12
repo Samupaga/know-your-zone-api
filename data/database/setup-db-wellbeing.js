@@ -14,7 +14,7 @@ parse(data, {columns: false, trim: true}, async (err, rows) => {
     rowData = rows.slice(1)
     for (row of rowData) {
         // console.log(row)
-        await db.query("INSERT INTO wellbeing_data (borough_name, life_satisfaction, worthwhile, happiness, anxiety) VALUES ($1, $2, $3, $4, $5)", [row[0], row[1], row[2], row[3], row[4]])
+        await db.query("INSERT INTO wellbeing_data (borough_name, life_satisfaction, worthwhile, happiness, anxiety, wellbeing) VALUES ($1, $2, $3, $4, $5, $6)", [row[0], row[1], row[2], row[3], row[4], row[5]])
     }
 })
 })
