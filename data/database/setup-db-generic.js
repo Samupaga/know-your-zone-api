@@ -25,6 +25,8 @@ async function addData (dataCategory) {
                             , row[1], row[2], row[3], row[4], row[5]])
                     } else if (dataCategory === 'religion') {
                         await db.query("INSERT INTO religion_data (borough_id, christian, buddhist, hindu, jewish, muslim, sikh, other_religion, no_religion, total) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10)", [boroughId, row[1], row[2], row[3], row[4], row[5], row[6], row[7], row[8], row[9]])
+                    } else if (dataCategory === 'wellbeing') {
+                        await db.query("INSERT INTO wellbeing_data (borough_id, life_satisfaction, worthwhile, happiness, anxiety, inverted_anxiety, wellbeing) VALUES ($1, $2, $3, $4, $5, $6, $7)", [boroughId, row[1], row[2], row[3], row[4], row[5], row[6]])
                     }
                 }
             })

@@ -10,7 +10,7 @@
     "setup-db-rent": "node ./data/database/setup-db-rent.js",
     "setup-db-crime": "node ./data/database/setup-db-crime.js", 
     "setup-db-ethnicity": "node ./data/database/setup-db-generic.js ethnicity", 
-    "setup-db-wellbeing": "node ./data/database/setup-db-wellbeing.js",
+    "setup-db-wellbeing": "node ./data/database/setup-db-generic.js wellbeing",
     "setup-db-religion": "node ./data/database/setup-db-generic.js religion"
   },
   "repository": {
