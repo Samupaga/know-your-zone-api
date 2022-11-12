@@ -1,9 +1,11 @@
 const fs = require('fs');
 const { parse } = require('csv-parse');
 require('dotenv').config();
+// const argv = require('minimist')(process.argv.slice(2))
 
-const sql = fs.readFileSync('data/database/setup.sql').toString();
+// console.log(argv)
 
+const sql = fs.readFileSync('data/database/setup-rent.sql').toString();
 const db = require('./db');
 
 db.query(sql)
