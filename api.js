@@ -4,7 +4,7 @@ const cors = require('cors');
 const logRoute = require("./middleware/route-logger");
 const summaryRouter = require("./routers/summaryRouter")
 const rentRouter = require("./routers/rentRouter")
-// const crimeRouter = require("./routers/crimeRouter")
+const crimeRouter = require("./routers/crimeRouter")
 const api = express();
 
 function setupMiddleware(api) {
@@ -24,6 +24,6 @@ api.get("/", (req, res) => {
 
 api.use("/summary", summaryRouter); // summary route
 api.use("/rent", rentRouter); // rent route
-// api.use("/crime", crimeRouter); // crime route
+api.use("/crime", crimeRouter); // crime route
 
 module.exports = api;
