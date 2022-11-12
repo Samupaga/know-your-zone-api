@@ -2,11 +2,14 @@ DROP TABLE IF EXISTS ethnicity_data;
 
 CREATE TABLE ethnicity_data (
     id INT GENERATED ALWAYS AS IDENTITY, 
-    borough_name VARCHAR(1000), 
+    borough_id INT, 
     white INT, 
     asian INT, 
     black INT, 
     other INT, 
     total_population INT, 
-    PRIMARY KEY (id)
+    PRIMARY KEY (id),
+    CONSTRAINT fk_borough
+    FOREIGN KEY (borough_id)
+    REFERENCES borough(id)
 );
