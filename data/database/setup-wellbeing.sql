@@ -7,6 +7,7 @@ CREATE TABLE wellbeing_data (
     worthwhile REAL, 
     happiness REAL, 
     anxiety REAL, 
+    inverted_anxiety REAL, 
     wellbeing REAL,
     PRIMARY KEY (id)
 );
