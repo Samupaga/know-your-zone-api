@@ -20,8 +20,9 @@ async function addData (dataCategory) {
                 rowData = rows.slice(1)
 
                 for (const [i, row] of rows.slice(1).entries()) {
-                    console.log("row:", i)
                     const boroughId = boroughs[row[0]]
+                    console.log(`${dataCategory} row:`, i)
+
                     if (dataCategory === "ethnicity") {
                         await db.query("INSERT INTO ethnicity_data (borough_id, white, asian, black, other, total_population) VALUES ($1, $2, $3, $4, $5, $6)", [boroughId
                             , row[1], row[2], row[3], row[4], row[5]])
