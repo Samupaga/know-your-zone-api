@@ -1,0 +1,1345 @@
+Area,Mean,Median,Period Start Date,Period End Date,Property Type
+Camden,1025.0,900.0,2019/04/01,2020/03/31,Room
+Hackney,607.0,600.0,2019/04/01,2020/03/31,Room
+Hammersmith and Fulham,681.0,600.0,2019/04/01,2020/03/31,Room
+Haringey,694.0,675.0,2019/04/01,2020/03/31,Room
+Islington,766.0,790.0,2019/04/01,2020/03/31,Room
+Kensington and Chelsea,,,2019/04/01,2020/03/31,Room
+Lambeth,630.0,600.0,2019/04/01,2020/03/31,Room
+Lewisham,671.0,700.0,2019/04/01,2020/03/31,Room
+Newham,614.0,600.0,2019/04/01,2020/03/31,Room
+Southwark,699.0,700.0,2019/04/01,2020/03/31,Room
+Tower Hamlets,722.0,713.0,2019/04/01,2020/03/31,Room
+Wandsworth,,,2019/04/01,2020/03/31,Room
+Westminster,907.0,888.0,2019/04/01,2020/03/31,Room
+Barking and Dagenham,589.0,600.0,2019/04/01,2020/03/31,Room
+Barnet,,,2019/04/01,2020/03/31,Room
+Bexley,498.0,450.0,2019/04/01,2020/03/31,Room
+Brent,642.0,639.0,2019/04/01,2020/03/31,Room
+Bromley,561.0,550.0,2019/04/01,2020/03/31,Room
+Croydon,571.0,550.0,2019/04/01,2020/03/31,Room
+Ealing,624.0,600.0,2019/04/01,2020/03/31,Room
+Enfield,553.0,538.0,2019/04/01,2020/03/31,Room
+Greenwich,671.0,625.0,2019/04/01,2020/03/31,Room
+Harrow,608.0,600.0,2019/04/01,2020/03/31,Room
+Havering,562.0,650.0,2019/04/01,2020/03/31,Room
+Hillingdon,589.0,595.0,2019/04/01,2020/03/31,Room
+Hounslow,626.0,600.0,2019/04/01,2020/03/31,Room
+Kingston upon Thames,540.0,522.0,2019/04/01,2020/03/31,Room
+Merton,594.0,555.0,2019/04/01,2020/03/31,Room
+Redbridge,691.0,695.0,2019/04/01,2020/03/31,Room
+Richmond upon Thames,,,2019/04/01,2020/03/31,Room
+Sutton,566.0,530.0,2019/04/01,2020/03/31,Room
+Waltham Forest,594.0,600.0,2019/04/01,2020/03/31,Room
+Camden,1296.0,1200.0,2019/04/01,2020/03/31,Studio
+Hackney,1061.0,1000.0,2019/04/01,2020/03/31,Studio
+Hammersmith and Fulham,1086.0,1100.0,2019/04/01,2020/03/31,Studio
+Haringey,915.0,950.0,2019/04/01,2020/03/31,Studio
+Islington,1258.0,1202.0,2019/04/01,2020/03/31,Studio
+Kensington and Chelsea,1418.0,1365.0,2019/04/01,2020/03/31,Studio
+Lambeth,1087.0,950.0,2019/04/01,2020/03/31,Studio
+Lewisham,872.0,850.0,2019/04/01,2020/03/31,Studio
+Newham,982.0,900.0,2019/04/01,2020/03/31,Studio
+Southwark,1032.0,1000.0,2019/04/01,2020/03/31,Studio
+Tower Hamlets,1402.0,1364.0,2019/04/01,2020/03/31,Studio
+Wandsworth,1069.0,1050.0,2019/04/01,2020/03/31,Studio
+Westminster,1370.0,1213.0,2019/04/01,2020/03/31,Studio
+Barking and Dagenham,753.0,740.0,2019/04/01,2020/03/31,Studio
+Barnet,896.0,900.0,2019/04/01,2020/03/31,Studio
+Bexley,683.0,700.0,2019/04/01,2020/03/31,Studio
+Brent,939.0,950.0,2019/04/01,2020/03/31,Studio
+Bromley,767.0,775.0,2019/04/01,2020/03/31,Studio
+Croydon,750.0,750.0,2019/04/01,2020/03/31,Studio
+Ealing,900.0,900.0,2019/04/01,2020/03/31,Studio
+Enfield,845.0,850.0,2019/04/01,2020/03/31,Studio
+Greenwich,971.0,900.0,2019/04/01,2020/03/31,Studio
+Harrow,801.0,800.0,2019/04/01,2020/03/31,Studio
+Havering,669.0,698.0,2019/04/01,2020/03/31,Studio
+Hillingdon,773.0,750.0,2019/04/01,2020/03/31,Studio
+Hounslow,791.0,753.0,2019/04/01,2020/03/31,Studio
+Kingston upon Thames,858.0,850.0,2019/04/01,2020/03/31,Studio
+Merton,1040.0,950.0,2019/04/01,2020/03/31,Studio
+Redbridge,780.0,795.0,2019/04/01,2020/03/31,Studio
+Richmond upon Thames,965.0,950.0,2019/04/01,2020/03/31,Studio
+Sutton,775.0,775.0,2019/04/01,2020/03/31,Studio
+Waltham Forest,828.0,845.0,2019/04/01,2020/03/31,Studio
+Camden,1798,1733,2019/04/01,2020/03/31,One Bedroom
+Hackney,1487,1466,2019/04/01,2020/03/31,One Bedroom
+Hammersmith and Fulham,1456,1450,2019/04/01,2020/03/31,One Bedroom
+Haringey,1292,1295,2019/04/01,2020/03/31,One Bedroom
+Islington,1630,1582,2019/04/01,2020/03/31,One Bedroom
+Kensington and Chelsea,2062,1950,2019/04/01,2020/03/31,One Bedroom
+Lambeth,1551,1495,2019/04/01,2020/03/31,One Bedroom
+Lewisham,1141,1118,2019/04/01,2020/03/31,One Bedroom
+Newham,1189,1150,2019/04/01,2020/03/31,One Bedroom
+Southwark,1424,1350,2019/04/01,2020/03/31,One Bedroom
+Tower Hamlets,1558,1500,2019/04/01,2020/03/31,One Bedroom
+Wandsworth,1420,1400,2019/04/01,2020/03/31,One Bedroom
+Westminster,2176,2057,2019/04/01,2020/03/31,One Bedroom
+Barking and Dagenham,977,1000,2019/04/01,2020/03/31,One Bedroom
+Barnet,1172,1165,2019/04/01,2020/03/31,One Bedroom
+Bexley,852,875,2019/04/01,2020/03/31,One Bedroom
+Brent,1169,1163,2019/04/01,2020/03/31,One Bedroom
+Bromley,982,975,2019/04/01,2020/03/31,One Bedroom
+Croydon,948,930,2019/04/01,2020/03/31,One Bedroom
+Ealing,1222,1248,2019/04/01,2020/03/31,One Bedroom
+Enfield,999,950,2019/04/01,2020/03/31,One Bedroom
+Greenwich,1210,1250,2019/04/01,2020/03/31,One Bedroom
+Harrow,1030,1050,2019/04/01,2020/03/31,One Bedroom
+Havering,874,850,2019/04/01,2020/03/31,One Bedroom
+Hillingdon,1027,1000,2019/04/01,2020/03/31,One Bedroom
+Hounslow,1139,1095,2019/04/01,2020/03/31,One Bedroom
+Kingston upon Thames,1080,1050,2019/04/01,2020/03/31,One Bedroom
+Merton,1231,1250,2019/04/01,2020/03/31,One Bedroom
+Redbridge,1015,1000,2019/04/01,2020/03/31,One Bedroom
+Richmond upon Thames,1259,1250,2019/04/01,2020/03/31,One Bedroom
+Sutton,929,900,2019/04/01,2020/03/31,One Bedroom
+Waltham Forest,1111,1100,2019/04/01,2020/03/31,One Bedroom
+Camden,2346,2310,2019/04/01,2020/03/31,Two Bedrooms
+Hackney,1822,1738,2019/04/01,2020/03/31,Two Bedrooms
+Hammersmith and Fulham,1925,1820,2019/04/01,2020/03/31,Two Bedrooms
+Haringey,1614,1550,2019/04/01,2020/03/31,Two Bedrooms
+Islington,2093,1950,2019/04/01,2020/03/31,Two Bedrooms
+Kensington and Chelsea,3185,2817,2019/04/01,2020/03/31,Two Bedrooms
+Lambeth,1864,1707,2019/04/01,2020/03/31,Two Bedrooms
+Lewisham,1355,1350,2019/04/01,2020/03/31,Two Bedrooms
+Newham,1493,1425,2019/04/01,2020/03/31,Two Bedrooms
+Southwark,1753,1650,2019/04/01,2020/03/31,Two Bedrooms
+Tower Hamlets,1982,1842,2019/04/01,2020/03/31,Two Bedrooms
+Wandsworth,1798,1733,2019/04/01,2020/03/31,Two Bedrooms
+Westminster,3053,2752,2019/04/01,2020/03/31,Two Bedrooms
+Barking and Dagenham,1196,1200,2019/04/01,2020/03/31,Two Bedrooms
+Barnet,1421,1400,2019/04/01,2020/03/31,Two Bedrooms
+Bexley,1097,1100,2019/04/01,2020/03/31,Two Bedrooms
+Brent,1430,1400,2019/04/01,2020/03/31,Two Bedrooms
+Bromley,1228,1215,2019/04/01,2020/03/31,Two Bedrooms
+Croydon,1208,1200,2019/04/01,2020/03/31,Two Bedrooms
+Ealing,1509,1495,2019/04/01,2020/03/31,Two Bedrooms
+Enfield,1304,1300,2019/04/01,2020/03/31,Two Bedrooms
+Greenwich,1458,1400,2019/04/01,2020/03/31,Two Bedrooms
+Harrow,1298,1300,2019/04/01,2020/03/31,Two Bedrooms
+Havering,1108,1100,2019/04/01,2020/03/31,Two Bedrooms
+Hillingdon,1230,1228,2019/04/01,2020/03/31,Two Bedrooms
+Hounslow,1347,1285,2019/04/01,2020/03/31,Two Bedrooms
+Kingston upon Thames,1373,1350,2019/04/01,2020/03/31,Two Bedrooms
+Merton,1538,1500,2019/04/01,2020/03/31,Two Bedrooms
+Redbridge,1281,1258,2019/04/01,2020/03/31,Two Bedrooms
+Richmond upon Thames,1664,1600,2019/04/01,2020/03/31,Two Bedrooms
+Sutton,1187,1180,2019/04/01,2020/03/31,Two Bedrooms
+Waltham Forest,1352,1325,2019/04/01,2020/03/31,Two Bedrooms
+Camden,3112.0,2900.0,2019/04/01,2020/03/31,Three Bedrooms
+Hackney,2477.0,2400.0,2019/04/01,2020/03/31,Three Bedrooms
+Hammersmith and Fulham,2588.0,2557.0,2019/04/01,2020/03/31,Three Bedrooms
+Haringey,2048.0,2000.0,2019/04/01,2020/03/31,Three Bedrooms
+Islington,2577.0,2362.0,2019/04/01,2020/03/31,Three Bedrooms
+Kensington and Chelsea,4959.0,4550.0,2019/04/01,2020/03/31,Three Bedrooms
+Lambeth,2413.0,2318.0,2019/04/01,2020/03/31,Three Bedrooms
+Lewisham,1635.0,1600.0,2019/04/01,2020/03/31,Three Bedrooms
+Newham,1708.0,1650.0,2019/04/01,2020/03/31,Three Bedrooms
+Southwark,2171.0,2150.0,2019/04/01,2020/03/31,Three Bedrooms
+Tower Hamlets,2463.0,2262.0,2019/04/01,2020/03/31,Three Bedrooms
+Wandsworth,2321.0,2250.0,2019/04/01,2020/03/31,Three Bedrooms
+Westminster,4757.0,3878.0,2019/04/01,2020/03/31,Three Bedrooms
+Barking and Dagenham,1428.0,1400.0,2019/04/01,2020/03/31,Three Bedrooms
+Barnet,1809.0,1800.0,2019/04/01,2020/03/31,Three Bedrooms
+Bexley,1297.0,1300.0,2019/04/01,2020/03/31,Three Bedrooms
+Brent,1816.0,1750.0,2019/04/01,2020/03/31,Three Bedrooms
+Bromley,1546.0,1500.0,2019/04/01,2020/03/31,Three Bedrooms
+Croydon,1428.0,1450.0,2019/04/01,2020/03/31,Three Bedrooms
+Ealing,1920.0,1800.0,2019/04/01,2020/03/31,Three Bedrooms
+Enfield,1596.0,1550.0,2019/04/01,2020/03/31,Three Bedrooms
+Greenwich,1772.0,1625.0,2019/04/01,2020/03/31,Three Bedrooms
+Harrow,1613.0,1600.0,2019/04/01,2020/03/31,Three Bedrooms
+Havering,1374.0,1375.0,2019/04/01,2020/03/31,Three Bedrooms
+Hillingdon,1391.0,1375.0,2019/04/01,2020/03/31,Three Bedrooms
+Hounslow,1638.0,1550.0,2019/04/01,2020/03/31,Three Bedrooms
+Kingston upon Thames,1718.0,1650.0,2019/04/01,2020/03/31,Three Bedrooms
+Merton,1968.0,1898.0,2019/04/01,2020/03/31,Three Bedrooms
+Redbridge,1576.0,1598.0,2019/04/01,2020/03/31,Three Bedrooms
+Richmond upon Thames,2156.0,1950.0,2019/04/01,2020/03/31,Three Bedrooms
+Sutton,1522.0,1500.0,2019/04/01,2020/03/31,Three Bedrooms
+Waltham Forest,1649.0,1650.0,2019/04/01,2020/03/31,Three Bedrooms
+Camden,4332.0,3727.0,2019/04/01,2020/03/31,Four or more Bedrooms
+Hackney,3070.0,3063.0,2019/04/01,2020/03/31,Four or more Bedrooms
+Hammersmith and Fulham,4874.0,4116.0,2019/04/01,2020/03/31,Four or more Bedrooms
+Haringey,2832.0,2750.0,2019/04/01,2020/03/31,Four or more Bedrooms
+Islington,3508.0,3313.0,2019/04/01,2020/03/31,Four or more Bedrooms
+Kensington and Chelsea,7712.0,6428.0,2019/04/01,2020/03/31,Four or more Bedrooms
+Lambeth,3042.0,3000.0,2019/04/01,2020/03/31,Four or more Bedrooms
+Lewisham,2291.0,2200.0,2019/04/01,2020/03/31,Four or more Bedrooms
+Newham,2036.0,1950.0,2019/04/01,2020/03/31,Four or more Bedrooms
+Southwark,2664.0,2600.0,2019/04/01,2020/03/31,Four or more Bedrooms
+Tower Hamlets,2909.0,2741.0,2019/04/01,2020/03/31,Four or more Bedrooms
+Wandsworth,3300.0,3150.0,2019/04/01,2020/03/31,Four or more Bedrooms
+Westminster,9386.0,7323.0,2019/04/01,2020/03/31,Four or more Bedrooms
+Barking and Dagenham,1656.0,1650.0,2019/04/01,2020/03/31,Four or more Bedrooms
+Barnet,2551.0,2300.0,2019/04/01,2020/03/31,Four or more Bedrooms
+Bexley,1737.0,1700.0,2019/04/01,2020/03/31,Four or more Bedrooms
+Brent,2224.0,2100.0,2019/04/01,2020/03/31,Four or more Bedrooms
+Bromley,2239.0,2000.0,2019/04/01,2020/03/31,Four or more Bedrooms
+Croydon,1910.0,1848.0,2019/04/01,2020/03/31,Four or more Bedrooms
+Ealing,2687.0,2500.0,2019/04/01,2020/03/31,Four or more Bedrooms
+Enfield,2043.0,2100.0,2019/04/01,2020/03/31,Four or more Bedrooms
+Greenwich,2276.0,2100.0,2019/04/01,2020/03/31,Four or more Bedrooms
+Harrow,2042.0,2000.0,2019/04/01,2020/03/31,Four or more Bedrooms
+Havering,1771.0,1700.0,2019/04/01,2020/03/31,Four or more Bedrooms
+Hillingdon,1970.0,1863.0,2019/04/01,2020/03/31,Four or more Bedrooms
+Hounslow,2346.0,1950.0,2019/04/01,2020/03/31,Four or more Bedrooms
+Kingston upon Thames,2454.0,2263.0,2019/04/01,2020/03/31,Four or more Bedrooms
+Merton,2749.0,2650.0,2019/04/01,2020/03/31,Four or more Bedrooms
+Redbridge,2133.0,2050.0,2019/04/01,2020/03/31,Four or more Bedrooms
+Richmond upon Thames,3924.0,3300.0,2019/04/01,2020/03/31,Four or more Bedrooms
+Sutton,1948.0,1895.0,2019/04/01,2020/03/31,Four or more Bedrooms
+Waltham Forest,2058.0,2000.0,2019/04/01,2020/03/31,Four or more Bedrooms
+Camden,2302,2050,2019/04/01,2020/03/31,All categories
+Hackney,1842,1700,2019/04/01,2020/03/31,All categories
+Hammersmith and Fulham,2117,1733,2019/04/01,2020/03/31,All categories
+Haringey,1669,1500,2019/04/01,2020/03/31,All categories
+Islington,2003,1850,2019/04/01,2020/03/31,All categories
+Kensington and Chelsea,3023,2383,2019/04/01,2020/03/31,All categories
+Lambeth,1908,1720,2019/04/01,2020/03/31,All categories
+Lewisham,1316,1300,2019/04/01,2020/03/31,All categories
+Newham,1453,1400,2019/04/01,2020/03/31,All categories
+Southwark,1718,1600,2019/04/01,2020/03/31,All categories
+Tower Hamlets,1835,1700,2019/04/01,2020/03/31,All categories
+Wandsworth,1958,1750,2019/04/01,2020/03/31,All categories
+Westminster,3046,2492,2019/04/01,2020/03/31,All categories
+Barking and Dagenham,1208,1200,2019/04/01,2020/03/31,All categories
+Barnet,1499,1400,2019/04/01,2020/03/31,All categories
+Bexley,1092,1100,2019/04/01,2020/03/31,All categories
+Brent,1502,1450,2019/04/01,2020/03/31,All categories
+Bromley,1307,1200,2019/04/01,2020/03/31,All categories
+Croydon,1140,1100,2019/04/01,2020/03/31,All categories
+Ealing,1569,1425,2019/04/01,2020/03/31,All categories
+Enfield,1292,1250,2019/04/01,2020/03/31,All categories
+Greenwich,1476,1375,2019/04/01,2020/03/31,All categories
+Harrow,1387,1350,2019/04/01,2020/03/31,All categories
+Havering,1169,1150,2019/04/01,2020/03/31,All categories
+Hillingdon,1200,1200,2019/04/01,2020/03/31,All categories
+Hounslow,1352,1275,2019/04/01,2020/03/31,All categories
+Kingston upon Thames,1306,1250,2019/04/01,2020/03/31,All categories
+Merton,1640,1495,2019/04/01,2020/03/31,All categories
+Redbridge,1311,1250,2019/04/01,2020/03/31,All categories
+Richmond upon Thames,1835,1550,2019/04/01,2020/03/31,All categories
+Sutton,1151,1100,2019/04/01,2020/03/31,All categories
+Waltham Forest,1352,1300,2019/04/01,2020/03/31,All categories
+Camden,776.0,775.0,2020/04/01,2021/03/31,Room
+Hackney,627.0,600.0,2020/04/01,2021/03/31,Room
+Hammersmith and Fulham,640.0,605.0,2020/04/01,2021/03/31,Room
+Haringey,661.0,675.0,2020/04/01,2021/03/31,Room
+Islington,,,2020/04/01,2021/03/31,Room
+Kensington and Chelsea,,,2020/04/01,2021/03/31,Room
+Lambeth,663.0,725.0,2020/04/01,2021/03/31,Room
+Lewisham,699.0,695.0,2020/04/01,2021/03/31,Room
+Newham,692.0,725.0,2020/04/01,2021/03/31,Room
+Southwark,724.0,725.0,2020/04/01,2021/03/31,Room
+Tower Hamlets,705.0,685.0,2020/04/01,2021/03/31,Room
+Wandsworth,,,2020/04/01,2021/03/31,Room
+Westminster,849.0,844.0,2020/04/01,2021/03/31,Room
+Barking and Dagenham,588.0,600.0,2020/04/01,2021/03/31,Room
+Barnet,,,2020/04/01,2021/03/31,Room
+Bexley,,,2020/04/01,2021/03/31,Room
+Brent,582.0,575.0,2020/04/01,2021/03/31,Room
+Bromley,588.0,600.0,2020/04/01,2021/03/31,Room
+Croydon,604.0,550.0,2020/04/01,2021/03/31,Room
+Ealing,829.0,800.0,2020/04/01,2021/03/31,Room
+Enfield,553.0,540.0,2020/04/01,2021/03/31,Room
+Greenwich,680.0,670.0,2020/04/01,2021/03/31,Room
+Harrow,596.0,600.0,2020/04/01,2021/03/31,Room
+Havering,643.0,675.0,2020/04/01,2021/03/31,Room
+Hillingdon,637.0,613.0,2020/04/01,2021/03/31,Room
+Hounslow,572.0,550.0,2020/04/01,2021/03/31,Room
+Kingston upon Thames,577.0,550.0,2020/04/01,2021/03/31,Room
+Merton,690.0,700.0,2020/04/01,2021/03/31,Room
+Redbridge,745.0,698.0,2020/04/01,2021/03/31,Room
+Richmond upon Thames,,,2020/04/01,2021/03/31,Room
+Sutton,588.0,585.0,2020/04/01,2021/03/31,Room
+Waltham Forest,688.0,700.0,2020/04/01,2021/03/31,Room
+Camden,994.0,954.0,2020/04/01,2021/03/31,Studio
+Hackney,1039.0,1000.0,2020/04/01,2021/03/31,Studio
+Hammersmith and Fulham,1107.0,1100.0,2020/04/01,2021/03/31,Studio
+Haringey,897.0,921.0,2020/04/01,2021/03/31,Studio
+Islington,1024.0,940.0,2020/04/01,2021/03/31,Studio
+Kensington and Chelsea,1337.0,1300.0,2020/04/01,2021/03/31,Studio
+Lambeth,1174.0,1138.0,2020/04/01,2021/03/31,Studio
+Lewisham,904.0,875.0,2020/04/01,2021/03/31,Studio
+Newham,1190.0,1200.0,2020/04/01,2021/03/31,Studio
+Southwark,1164.0,1030.0,2020/04/01,2021/03/31,Studio
+Tower Hamlets,1247.0,1250.0,2020/04/01,2021/03/31,Studio
+Wandsworth,1058.0,1019.0,2020/04/01,2021/03/31,Studio
+Westminster,1331.0,1213.0,2020/04/01,2021/03/31,Studio
+Barking and Dagenham,760.0,750.0,2020/04/01,2021/03/31,Studio
+Barnet,957.0,950.0,2020/04/01,2021/03/31,Studio
+Bexley,711.0,713.0,2020/04/01,2021/03/31,Studio
+Brent,890.0,866.0,2020/04/01,2021/03/31,Studio
+Bromley,783.0,798.0,2020/04/01,2021/03/31,Studio
+Croydon,790.0,793.0,2020/04/01,2021/03/31,Studio
+Ealing,981.0,974.0,2020/04/01,2021/03/31,Studio
+Enfield,831.0,850.0,2020/04/01,2021/03/31,Studio
+Greenwich,945.0,875.0,2020/04/01,2021/03/31,Studio
+Harrow,836.0,850.0,2020/04/01,2021/03/31,Studio
+Havering,716.0,700.0,2020/04/01,2021/03/31,Studio
+Hillingdon,828.0,800.0,2020/04/01,2021/03/31,Studio
+Hounslow,819.0,800.0,2020/04/01,2021/03/31,Studio
+Kingston upon Thames,856.0,850.0,2020/04/01,2021/03/31,Studio
+Merton,991.0,900.0,2020/04/01,2021/03/31,Studio
+Redbridge,797.0,800.0,2020/04/01,2021/03/31,Studio
+Richmond upon Thames,940.0,900.0,2020/04/01,2021/03/31,Studio
+Sutton,788.0,775.0,2020/04/01,2021/03/31,Studio
+Waltham Forest,847.0,850.0,2020/04/01,2021/03/31,Studio
+Camden,1499,1350,2020/04/01,2021/03/31,One Bedroom
+Hackney,1446,1408,2020/04/01,2021/03/31,One Bedroom
+Hammersmith and Fulham,1479,1430,2020/04/01,2021/03/31,One Bedroom
+Haringey,1260,1275,2020/04/01,2021/03/31,One Bedroom
+Islington,1482,1450,2020/04/01,2021/03/31,One Bedroom
+Kensington and Chelsea,1995,1885,2020/04/01,2021/03/31,One Bedroom
+Lambeth,1397,1350,2020/04/01,2021/03/31,One Bedroom
+Lewisham,1122,1100,2020/04/01,2021/03/31,One Bedroom
+Newham,1320,1350,2020/04/01,2021/03/31,One Bedroom
+Southwark,1399,1305,2020/04/01,2021/03/31,One Bedroom
+Tower Hamlets,1434,1375,2020/04/01,2021/03/31,One Bedroom
+Wandsworth,1430,1400,2020/04/01,2021/03/31,One Bedroom
+Westminster,1982,1885,2020/04/01,2021/03/31,One Bedroom
+Barking and Dagenham,987,1000,2020/04/01,2021/03/31,One Bedroom
+Barnet,1164,1150,2020/04/01,2021/03/31,One Bedroom
+Bexley,873,875,2020/04/01,2021/03/31,One Bedroom
+Brent,1169,1150,2020/04/01,2021/03/31,One Bedroom
+Bromley,1006,1000,2020/04/01,2021/03/31,One Bedroom
+Croydon,989,965,2020/04/01,2021/03/31,One Bedroom
+Ealing,1245,1248,2020/04/01,2021/03/31,One Bedroom
+Enfield,1035,1000,2020/04/01,2021/03/31,One Bedroom
+Greenwich,1195,1200,2020/04/01,2021/03/31,One Bedroom
+Harrow,1074,1055,2020/04/01,2021/03/31,One Bedroom
+Havering,909,900,2020/04/01,2021/03/31,One Bedroom
+Hillingdon,1061,1050,2020/04/01,2021/03/31,One Bedroom
+Hounslow,1102,1050,2020/04/01,2021/03/31,One Bedroom
+Kingston upon Thames,1087,1100,2020/04/01,2021/03/31,One Bedroom
+Merton,1216,1213,2020/04/01,2021/03/31,One Bedroom
+Redbridge,1047,1050,2020/04/01,2021/03/31,One Bedroom
+Richmond upon Thames,1263,1250,2020/04/01,2021/03/31,One Bedroom
+Sutton,927,925,2020/04/01,2021/03/31,One Bedroom
+Waltham Forest,1085,1100,2020/04/01,2021/03/31,One Bedroom
+Camden,2106,1950,2020/04/01,2021/03/31,Two Bedrooms
+Hackney,1768,1650,2020/04/01,2021/03/31,Two Bedrooms
+Hammersmith and Fulham,1928,1800,2020/04/01,2021/03/31,Two Bedrooms
+Haringey,1494,1460,2020/04/01,2021/03/31,Two Bedrooms
+Islington,1911,1880,2020/04/01,2021/03/31,Two Bedrooms
+Kensington and Chelsea,2889,2687,2020/04/01,2021/03/31,Two Bedrooms
+Lambeth,1701,1635,2020/04/01,2021/03/31,Two Bedrooms
+Lewisham,1362,1350,2020/04/01,2021/03/31,Two Bedrooms
+Newham,1596,1600,2020/04/01,2021/03/31,Two Bedrooms
+Southwark,1741,1650,2020/04/01,2021/03/31,Two Bedrooms
+Tower Hamlets,1777,1695,2020/04/01,2021/03/31,Two Bedrooms
+Wandsworth,1812,1750,2020/04/01,2021/03/31,Two Bedrooms
+Westminster,2731,2500,2020/04/01,2021/03/31,Two Bedrooms
+Barking and Dagenham,1225,1200,2020/04/01,2021/03/31,Two Bedrooms
+Barnet,1406,1400,2020/04/01,2021/03/31,Two Bedrooms
+Bexley,1159,1150,2020/04/01,2021/03/31,Two Bedrooms
+Brent,1430,1400,2020/04/01,2021/03/31,Two Bedrooms
+Bromley,1269,1250,2020/04/01,2021/03/31,Two Bedrooms
+Croydon,1237,1200,2020/04/01,2021/03/31,Two Bedrooms
+Ealing,1559,1500,2020/04/01,2021/03/31,Two Bedrooms
+Enfield,1316,1300,2020/04/01,2021/03/31,Two Bedrooms
+Greenwich,1457,1400,2020/04/01,2021/03/31,Two Bedrooms
+Harrow,1352,1325,2020/04/01,2021/03/31,Two Bedrooms
+Havering,1139,1150,2020/04/01,2021/03/31,Two Bedrooms
+Hillingdon,1301,1300,2020/04/01,2021/03/31,Two Bedrooms
+Hounslow,1351,1300,2020/04/01,2021/03/31,Two Bedrooms
+Kingston upon Thames,1373,1350,2020/04/01,2021/03/31,Two Bedrooms
+Merton,1472,1431,2020/04/01,2021/03/31,Two Bedrooms
+Redbridge,1289,1275,2020/04/01,2021/03/31,Two Bedrooms
+Richmond upon Thames,1675,1600,2020/04/01,2021/03/31,Two Bedrooms
+Sutton,1161,1150,2020/04/01,2021/03/31,Two Bedrooms
+Waltham Forest,1320,1300,2020/04/01,2021/03/31,Two Bedrooms
+Camden,2725.0,2250.0,2020/04/01,2021/03/31,Three Bedrooms
+Hackney,2345.0,2250.0,2020/04/01,2021/03/31,Three Bedrooms
+Hammersmith and Fulham,2637.0,2491.0,2020/04/01,2021/03/31,Three Bedrooms
+Haringey,1894.0,1850.0,2020/04/01,2021/03/31,Three Bedrooms
+Islington,2274.0,2100.0,2020/04/01,2021/03/31,Three Bedrooms
+Kensington and Chelsea,4622.0,4188.0,2020/04/01,2021/03/31,Three Bedrooms
+Lambeth,2286.0,2241.0,2020/04/01,2021/03/31,Three Bedrooms
+Lewisham,1715.0,1650.0,2020/04/01,2021/03/31,Three Bedrooms
+Newham,1861.0,1800.0,2020/04/01,2021/03/31,Three Bedrooms
+Southwark,2160.0,2100.0,2020/04/01,2021/03/31,Three Bedrooms
+Tower Hamlets,2203.0,2100.0,2020/04/01,2021/03/31,Three Bedrooms
+Wandsworth,2314.0,2263.0,2020/04/01,2021/03/31,Three Bedrooms
+Westminster,4117.0,3683.0,2020/04/01,2021/03/31,Three Bedrooms
+Barking and Dagenham,1419.0,1400.0,2020/04/01,2021/03/31,Three Bedrooms
+Barnet,1774.0,1798.0,2020/04/01,2021/03/31,Three Bedrooms
+Bexley,1375.0,1375.0,2020/04/01,2021/03/31,Three Bedrooms
+Brent,1791.0,1750.0,2020/04/01,2021/03/31,Three Bedrooms
+Bromley,1591.0,1558.0,2020/04/01,2021/03/31,Three Bedrooms
+Croydon,1475.0,1490.0,2020/04/01,2021/03/31,Three Bedrooms
+Ealing,1974.0,1898.0,2020/04/01,2021/03/31,Three Bedrooms
+Enfield,1589.0,1600.0,2020/04/01,2021/03/31,Three Bedrooms
+Greenwich,1711.0,1600.0,2020/04/01,2021/03/31,Three Bedrooms
+Harrow,1654.0,1650.0,2020/04/01,2021/03/31,Three Bedrooms
+Havering,1396.0,1375.0,2020/04/01,2021/03/31,Three Bedrooms
+Hillingdon,1504.0,1500.0,2020/04/01,2021/03/31,Three Bedrooms
+Hounslow,1673.0,1600.0,2020/04/01,2021/03/31,Three Bedrooms
+Kingston upon Thames,1742.0,1700.0,2020/04/01,2021/03/31,Three Bedrooms
+Merton,1891.0,1800.0,2020/04/01,2021/03/31,Three Bedrooms
+Redbridge,1592.0,1600.0,2020/04/01,2021/03/31,Three Bedrooms
+Richmond upon Thames,2228.0,2000.0,2020/04/01,2021/03/31,Three Bedrooms
+Sutton,1500.0,1500.0,2020/04/01,2021/03/31,Three Bedrooms
+Waltham Forest,1635.0,1600.0,2020/04/01,2021/03/31,Three Bedrooms
+Camden,4050.0,3098.0,2020/04/01,2021/03/31,Four or more Bedrooms
+Hackney,3219.0,3297.0,2020/04/01,2021/03/31,Four or more Bedrooms
+Hammersmith and Fulham,4376.0,3900.0,2020/04/01,2021/03/31,Four or more Bedrooms
+Haringey,2384.0,2190.0,2020/04/01,2021/03/31,Four or more Bedrooms
+Islington,3547.0,3250.0,2020/04/01,2021/03/31,Four or more Bedrooms
+Kensington and Chelsea,7781.0,7150.0,2020/04/01,2021/03/31,Four or more Bedrooms
+Lambeth,3121.0,3180.0,2020/04/01,2021/03/31,Four or more Bedrooms
+Lewisham,2232.0,2250.0,2020/04/01,2021/03/31,Four or more Bedrooms
+Newham,2000.0,1950.0,2020/04/01,2021/03/31,Four or more Bedrooms
+Southwark,2897.0,2700.0,2020/04/01,2021/03/31,Four or more Bedrooms
+Tower Hamlets,2984.0,2817.0,2020/04/01,2021/03/31,Four or more Bedrooms
+Wandsworth,3111.0,3100.0,2020/04/01,2021/03/31,Four or more Bedrooms
+Westminster,7307.0,5762.0,2020/04/01,2021/03/31,Four or more Bedrooms
+Barking and Dagenham,1740.0,1700.0,2020/04/01,2021/03/31,Four or more Bedrooms
+Barnet,2384.0,2200.0,2020/04/01,2021/03/31,Four or more Bedrooms
+Bexley,1951.0,1795.0,2020/04/01,2021/03/31,Four or more Bedrooms
+Brent,2204.0,2100.0,2020/04/01,2021/03/31,Four or more Bedrooms
+Bromley,2257.0,2000.0,2020/04/01,2021/03/31,Four or more Bedrooms
+Croydon,1926.0,1895.0,2020/04/01,2021/03/31,Four or more Bedrooms
+Ealing,2750.0,2449.0,2020/04/01,2021/03/31,Four or more Bedrooms
+Enfield,2052.0,2000.0,2020/04/01,2021/03/31,Four or more Bedrooms
+Greenwich,2069.0,1950.0,2020/04/01,2021/03/31,Four or more Bedrooms
+Harrow,2093.0,2000.0,2020/04/01,2021/03/31,Four or more Bedrooms
+Havering,1770.0,1720.0,2020/04/01,2021/03/31,Four or more Bedrooms
+Hillingdon,2113.0,2000.0,2020/04/01,2021/03/31,Four or more Bedrooms
+Hounslow,2376.0,2000.0,2020/04/01,2021/03/31,Four or more Bedrooms
+Kingston upon Thames,2466.0,2250.0,2020/04/01,2021/03/31,Four or more Bedrooms
+Merton,2833.0,2525.0,2020/04/01,2021/03/31,Four or more Bedrooms
+Redbridge,2052.0,1950.0,2020/04/01,2021/03/31,Four or more Bedrooms
+Richmond upon Thames,3845.0,3500.0,2020/04/01,2021/03/31,Four or more Bedrooms
+Sutton,1954.0,1900.0,2020/04/01,2021/03/31,Four or more Bedrooms
+Waltham Forest,1992.0,2000.0,2020/04/01,2021/03/31,Four or more Bedrooms
+Camden,1861,1582,2020/04/01,2021/03/31,All categories
+Hackney,1800,1650,2020/04/01,2021/03/31,All categories
+Hammersmith and Fulham,2010,1700,2020/04/01,2021/03/31,All categories
+Haringey,1588,1450,2020/04/01,2021/03/31,All categories
+Islington,1803,1625,2020/04/01,2021/03/31,All categories
+Kensington and Chelsea,2849,2275,2020/04/01,2021/03/31,All categories
+Lambeth,1788,1645,2020/04/01,2021/03/31,All categories
+Lewisham,1313,1250,2020/04/01,2021/03/31,All categories
+Newham,1536,1500,2020/04/01,2021/03/31,All categories
+Southwark,1725,1615,2020/04/01,2021/03/31,All categories
+Tower Hamlets,1718,1600,2020/04/01,2021/03/31,All categories
+Wandsworth,1922,1733,2020/04/01,2021/03/31,All categories
+Westminster,2605,2232,2020/04/01,2021/03/31,All categories
+Barking and Dagenham,1226,1200,2020/04/01,2021/03/31,All categories
+Barnet,1436,1350,2020/04/01,2021/03/31,All categories
+Bexley,1192,1150,2020/04/01,2021/03/31,All categories
+Brent,1472,1425,2020/04/01,2021/03/31,All categories
+Bromley,1326,1250,2020/04/01,2021/03/31,All categories
+Croydon,1193,1150,2020/04/01,2021/03/31,All categories
+Ealing,1544,1425,2020/04/01,2021/03/31,All categories
+Enfield,1327,1300,2020/04/01,2021/03/31,All categories
+Greenwich,1422,1350,2020/04/01,2021/03/31,All categories
+Harrow,1417,1350,2020/04/01,2021/03/31,All categories
+Havering,1198,1195,2020/04/01,2021/03/31,All categories
+Hillingdon,1279,1250,2020/04/01,2021/03/31,All categories
+Hounslow,1392,1300,2020/04/01,2021/03/31,All categories
+Kingston upon Thames,1400,1300,2020/04/01,2021/03/31,All categories
+Merton,1620,1450,2020/04/01,2021/03/31,All categories
+Redbridge,1310,1250,2020/04/01,2021/03/31,All categories
+Richmond upon Thames,1837,1575,2020/04/01,2021/03/31,All categories
+Sutton,1143,1100,2020/04/01,2021/03/31,All categories
+Waltham Forest,1327,1250,2020/04/01,2021/03/31,All categories
+Camden,,,2021/04/01,2022/03/31,Room
+Hackney,657.0,650.0,2021/04/01,2022/03/31,Room
+Hammersmith and Fulham,,,2021/04/01,2022/03/31,Room
+Haringey,636.0,650.0,2021/04/01,2022/03/31,Room
+Islington,697.0,675.0,2021/04/01,2022/03/31,Room
+Kensington and Chelsea,,,2021/04/01,2022/03/31,Room
+Lambeth,582.0,570.0,2021/04/01,2022/03/31,Room
+Lewisham,692.0,650.0,2021/04/01,2022/03/31,Room
+Newham,653.0,690.0,2021/04/01,2022/03/31,Room
+Southwark,722.0,748.0,2021/04/01,2022/03/31,Room
+Tower Hamlets,668.0,650.0,2021/04/01,2022/03/31,Room
+Wandsworth,529.0,500.0,2021/04/01,2022/03/31,Room
+Westminster,774.0,750.0,2021/04/01,2022/03/31,Room
+Barking and Dagenham,504.0,550.0,2021/04/01,2022/03/31,Room
+Barnet,626.0,620.0,2021/04/01,2022/03/31,Room
+Bexley,819.0,866.0,2021/04/01,2022/03/31,Room
+Brent,587.0,550.0,2021/04/01,2022/03/31,Room
+Bromley,,,2021/04/01,2022/03/31,Room
+Croydon,568.0,538.0,2021/04/01,2022/03/31,Room
+Ealing,668.0,675.0,2021/04/01,2022/03/31,Room
+Enfield,774.0,807.0,2021/04/01,2022/03/31,Room
+Greenwich,638.0,625.0,2021/04/01,2022/03/31,Room
+Harrow,567.0,525.0,2021/04/01,2022/03/31,Room
+Havering,655.0,675.0,2021/04/01,2022/03/31,Room
+Hillingdon,605.0,600.0,2021/04/01,2022/03/31,Room
+Hounslow,574.0,578.0,2021/04/01,2022/03/31,Room
+Kingston upon Thames,,,2021/04/01,2022/03/31,Room
+Merton,,,2021/04/01,2022/03/31,Room
+Redbridge,756.0,695.0,2021/04/01,2022/03/31,Room
+Richmond upon Thames,691.0,650.0,2021/04/01,2022/03/31,Room
+Sutton,,,2021/04/01,2022/03/31,Room
+Waltham Forest,653.0,700.0,2021/04/01,2022/03/31,Room
+Camden,1182.0,1100.0,2021/04/01,2022/03/31,Studio
+Hackney,1077.0,1050.0,2021/04/01,2022/03/31,Studio
+Hammersmith and Fulham,1008.0,975.0,2021/04/01,2022/03/31,Studio
+Haringey,877.0,850.0,2021/04/01,2022/03/31,Studio
+Islington,1136.0,1089.0,2021/04/01,2022/03/31,Studio
+Kensington and Chelsea,1332.0,1300.0,2021/04/01,2022/03/31,Studio
+Lambeth,1077.0,1000.0,2021/04/01,2022/03/31,Studio
+Lewisham,878.0,860.0,2021/04/01,2022/03/31,Studio
+Newham,1143.0,1206.0,2021/04/01,2022/03/31,Studio
+Southwark,1109.0,1063.0,2021/04/01,2022/03/31,Studio
+Tower Hamlets,1265.0,1200.0,2021/04/01,2022/03/31,Studio
+Wandsworth,1041.0,1000.0,2021/04/01,2022/03/31,Studio
+Westminster,1225.0,1213.0,2021/04/01,2022/03/31,Studio
+Barking and Dagenham,744.0,730.0,2021/04/01,2022/03/31,Studio
+Barnet,912.0,900.0,2021/04/01,2022/03/31,Studio
+Bexley,804.0,800.0,2021/04/01,2022/03/31,Studio
+Brent,877.0,863.0,2021/04/01,2022/03/31,Studio
+Bromley,830.0,825.0,2021/04/01,2022/03/31,Studio
+Croydon,815.0,800.0,2021/04/01,2022/03/31,Studio
+Ealing,932.0,925.0,2021/04/01,2022/03/31,Studio
+Enfield,788.0,810.0,2021/04/01,2022/03/31,Studio
+Greenwich,938.0,950.0,2021/04/01,2022/03/31,Studio
+Harrow,802.0,798.0,2021/04/01,2022/03/31,Studio
+Havering,772.0,773.0,2021/04/01,2022/03/31,Studio
+Hillingdon,805.0,750.0,2021/04/01,2022/03/31,Studio
+Hounslow,852.0,850.0,2021/04/01,2022/03/31,Studio
+Kingston upon Thames,881.0,875.0,2021/04/01,2022/03/31,Studio
+Merton,926.0,900.0,2021/04/01,2022/03/31,Studio
+Redbridge,817.0,825.0,2021/04/01,2022/03/31,Studio
+Richmond upon Thames,980.0,950.0,2021/04/01,2022/03/31,Studio
+Sutton,787.0,795.0,2021/04/01,2022/03/31,Studio
+Waltham Forest,826.0,850.0,2021/04/01,2022/03/31,Studio
+Camden,1617,1550,2021/04/01,2022/03/31,One Bedroom
+Hackney,1409,1350,2021/04/01,2022/03/31,One Bedroom
+Hammersmith and Fulham,1452,1400,2021/04/01,2022/03/31,One Bedroom
+Haringey,1253,1250,2021/04/01,2022/03/31,One Bedroom
+Islington,1484,1430,2021/04/01,2022/03/31,One Bedroom
+Kensington and Chelsea,1947,1798,2021/04/01,2022/03/31,One Bedroom
+Lambeth,1392,1350,2021/04/01,2022/03/31,One Bedroom
+Lewisham,1156,1125,2021/04/01,2022/03/31,One Bedroom
+Newham,1307,1325,2021/04/01,2022/03/31,One Bedroom
+Southwark,1379,1300,2021/04/01,2022/03/31,One Bedroom
+Tower Hamlets,1418,1375,2021/04/01,2022/03/31,One Bedroom
+Wandsworth,1441,1400,2021/04/01,2022/03/31,One Bedroom
+Westminster,1862,1700,2021/04/01,2022/03/31,One Bedroom
+Barking and Dagenham,1042,1050,2021/04/01,2022/03/31,One Bedroom
+Barnet,1178,1150,2021/04/01,2022/03/31,One Bedroom
+Bexley,934,925,2021/04/01,2022/03/31,One Bedroom
+Brent,1198,1170,2021/04/01,2022/03/31,One Bedroom
+Bromley,1042,1039,2021/04/01,2022/03/31,One Bedroom
+Croydon,991,950,2021/04/01,2022/03/31,One Bedroom
+Ealing,1238,1225,2021/04/01,2022/03/31,One Bedroom
+Enfield,1049,1025,2021/04/01,2022/03/31,One Bedroom
+Greenwich,1220,1200,2021/04/01,2022/03/31,One Bedroom
+Harrow,1085,1075,2021/04/01,2022/03/31,One Bedroom
+Havering,932,925,2021/04/01,2022/03/31,One Bedroom
+Hillingdon,981,975,2021/04/01,2022/03/31,One Bedroom
+Hounslow,1167,1150,2021/04/01,2022/03/31,One Bedroom
+Kingston upon Thames,1089,1098,2021/04/01,2022/03/31,One Bedroom
+Merton,1220,1200,2021/04/01,2022/03/31,One Bedroom
+Redbridge,1049,1050,2021/04/01,2022/03/31,One Bedroom
+Richmond upon Thames,1252,1225,2021/04/01,2022/03/31,One Bedroom
+Sutton,939,950,2021/04/01,2022/03/31,One Bedroom
+Waltham Forest,1125,1100,2021/04/01,2022/03/31,One Bedroom
+Camden,2184,2050,2021/04/01,2022/03/31,Two Bedrooms
+Hackney,1751,1650,2021/04/01,2022/03/31,Two Bedrooms
+Hammersmith and Fulham,1959,1820,2021/04/01,2022/03/31,Two Bedrooms
+Haringey,1580,1500,2021/04/01,2022/03/31,Two Bedrooms
+Islington,1933,1850,2021/04/01,2022/03/31,Two Bedrooms
+Kensington and Chelsea,2770,2535,2021/04/01,2022/03/31,Two Bedrooms
+Lambeth,1695,1647,2021/04/01,2022/03/31,Two Bedrooms
+Lewisham,1397,1350,2021/04/01,2022/03/31,Two Bedrooms
+Newham,1589,1590,2021/04/01,2022/03/31,Two Bedrooms
+Southwark,1744,1650,2021/04/01,2022/03/31,Two Bedrooms
+Tower Hamlets,1731,1650,2021/04/01,2022/03/31,Two Bedrooms
+Wandsworth,1859,1795,2021/04/01,2022/03/31,Two Bedrooms
+Westminster,2543,2275,2021/04/01,2022/03/31,Two Bedrooms
+Barking and Dagenham,1286,1250,2021/04/01,2022/03/31,Two Bedrooms
+Barnet,1413,1400,2021/04/01,2022/03/31,Two Bedrooms
+Bexley,1182,1200,2021/04/01,2022/03/31,Two Bedrooms
+Brent,1440,1400,2021/04/01,2022/03/31,Two Bedrooms
+Bromley,1323,1300,2021/04/01,2022/03/31,Two Bedrooms
+Croydon,1248,1250,2021/04/01,2022/03/31,Two Bedrooms
+Ealing,1530,1475,2021/04/01,2022/03/31,Two Bedrooms
+Enfield,1349,1328,2021/04/01,2022/03/31,Two Bedrooms
+Greenwich,1445,1400,2021/04/01,2022/03/31,Two Bedrooms
+Harrow,1339,1300,2021/04/01,2022/03/31,Two Bedrooms
+Havering,1169,1150,2021/04/01,2022/03/31,Two Bedrooms
+Hillingdon,1246,1250,2021/04/01,2022/03/31,Two Bedrooms
+Hounslow,1442,1350,2021/04/01,2022/03/31,Two Bedrooms
+Kingston upon Thames,1406,1350,2021/04/01,2022/03/31,Two Bedrooms
+Merton,1546,1475,2021/04/01,2022/03/31,Two Bedrooms
+Redbridge,1303,1300,2021/04/01,2022/03/31,Two Bedrooms
+Richmond upon Thames,1708,1650,2021/04/01,2022/03/31,Two Bedrooms
+Sutton,1192,1195,2021/04/01,2022/03/31,Two Bedrooms
+Waltham Forest,1382,1350,2021/04/01,2022/03/31,Two Bedrooms
+Camden,2936,2755,2021/04/01,2022/03/31,Three Bedrooms
+Hackney,2331,2250,2021/04/01,2022/03/31,Three Bedrooms
+Hammersmith and Fulham,2631,2450,2021/04/01,2022/03/31,Three Bedrooms
+Haringey,1970,1850,2021/04/01,2022/03/31,Three Bedrooms
+Islington,2452,2300,2021/04/01,2022/03/31,Three Bedrooms
+Kensington and Chelsea,4461,4030,2021/04/01,2022/03/31,Three Bedrooms
+Lambeth,2199,2167,2021/04/01,2022/03/31,Three Bedrooms
+Lewisham,1676,1600,2021/04/01,2022/03/31,Three Bedrooms
+Newham,1824,1750,2021/04/01,2022/03/31,Three Bedrooms
+Southwark,2183,2100,2021/04/01,2022/03/31,Three Bedrooms
+Tower Hamlets,2178,2066,2021/04/01,2022/03/31,Three Bedrooms
+Wandsworth,2346,2300,2021/04/01,2022/03/31,Three Bedrooms
+Westminster,3797,3433,2021/04/01,2022/03/31,Three Bedrooms
+Barking and Dagenham,1471,1450,2021/04/01,2022/03/31,Three Bedrooms
+Barnet,1827,1800,2021/04/01,2022/03/31,Three Bedrooms
+Bexley,1398,1400,2021/04/01,2022/03/31,Three Bedrooms
+Brent,1799,1775,2021/04/01,2022/03/31,Three Bedrooms
+Bromley,1684,1600,2021/04/01,2022/03/31,Three Bedrooms
+Croydon,1540,1500,2021/04/01,2022/03/31,Three Bedrooms
+Ealing,1907,1817,2021/04/01,2022/03/31,Three Bedrooms
+Enfield,1645,1613,2021/04/01,2022/03/31,Three Bedrooms
+Greenwich,1785,1700,2021/04/01,2022/03/31,Three Bedrooms
+Harrow,1651,1650,2021/04/01,2022/03/31,Three Bedrooms
+Havering,1412,1400,2021/04/01,2022/03/31,Three Bedrooms
+Hillingdon,1451,1450,2021/04/01,2022/03/31,Three Bedrooms
+Hounslow,1737,1650,2021/04/01,2022/03/31,Three Bedrooms
+Kingston upon Thames,1838,1800,2021/04/01,2022/03/31,Three Bedrooms
+Merton,2014,1900,2021/04/01,2022/03/31,Three Bedrooms
+Redbridge,1617,1600,2021/04/01,2022/03/31,Three Bedrooms
+Richmond upon Thames,2320,2150,2021/04/01,2022/03/31,Three Bedrooms
+Sutton,1558,1550,2021/04/01,2022/03/31,Three Bedrooms
+Waltham Forest,1672,1650,2021/04/01,2022/03/31,Three Bedrooms
+Camden,3516.0,3098.0,2021/04/01,2022/03/31,Four or more Bedrooms
+Hackney,3030.0,3050.0,2021/04/01,2022/03/31,Four or more Bedrooms
+Hammersmith and Fulham,4362.0,4028.0,2021/04/01,2022/03/31,Four or more Bedrooms
+Haringey,2502.0,2200.0,2021/04/01,2022/03/31,Four or more Bedrooms
+Islington,3327.0,3175.0,2021/04/01,2022/03/31,Four or more Bedrooms
+Kensington and Chelsea,6993.0,6500.0,2021/04/01,2022/03/31,Four or more Bedrooms
+Lambeth,3180.0,3125.0,2021/04/01,2022/03/31,Four or more Bedrooms
+Lewisham,2349.0,2200.0,2021/04/01,2022/03/31,Four or more Bedrooms
+Newham,2069.0,2000.0,2021/04/01,2022/03/31,Four or more Bedrooms
+Southwark,3249.0,3100.0,2021/04/01,2022/03/31,Four or more Bedrooms
+Tower Hamlets,2742.0,2725.0,2021/04/01,2022/03/31,Four or more Bedrooms
+Wandsworth,3331.0,3300.0,2021/04/01,2022/03/31,Four or more Bedrooms
+Westminster,5654.0,4937.0,2021/04/01,2022/03/31,Four or more Bedrooms
+Barking and Dagenham,1747.0,1725.0,2021/04/01,2022/03/31,Four or more Bedrooms
+Barnet,2573.0,2455.0,2021/04/01,2022/03/31,Four or more Bedrooms
+Bexley,1744.0,1730.0,2021/04/01,2022/03/31,Four or more Bedrooms
+Brent,2210.0,2200.0,2021/04/01,2022/03/31,Four or more Bedrooms
+Bromley,2427.0,2200.0,2021/04/01,2022/03/31,Four or more Bedrooms
+Croydon,2088.0,1975.0,2021/04/01,2022/03/31,Four or more Bedrooms
+Ealing,2716.0,2450.0,2021/04/01,2022/03/31,Four or more Bedrooms
+Enfield,2200.0,2000.0,2021/04/01,2022/03/31,Four or more Bedrooms
+Greenwich,2545.0,2225.0,2021/04/01,2022/03/31,Four or more Bedrooms
+Harrow,2032.0,1950.0,2021/04/01,2022/03/31,Four or more Bedrooms
+Havering,1806.0,1750.0,2021/04/01,2022/03/31,Four or more Bedrooms
+Hillingdon,2060.0,1950.0,2021/04/01,2022/03/31,Four or more Bedrooms
+Hounslow,2845.0,2225.0,2021/04/01,2022/03/31,Four or more Bedrooms
+Kingston upon Thames,2728.0,2500.0,2021/04/01,2022/03/31,Four or more Bedrooms
+Merton,3203.0,2750.0,2021/04/01,2022/03/31,Four or more Bedrooms
+Redbridge,2120.0,2000.0,2021/04/01,2022/03/31,Four or more Bedrooms
+Richmond upon Thames,3860.0,3675.0,2021/04/01,2022/03/31,Four or more Bedrooms
+Sutton,2079.0,1995.0,2021/04/01,2022/03/31,Four or more Bedrooms
+Waltham Forest,2025.0,2000.0,2021/04/01,2022/03/31,Four or more Bedrooms
+Camden,2001,1750,2021/04/01,2022/03/31,All categories
+Hackney,1760,1600,2021/04/01,2022/03/31,All categories
+Hammersmith and Fulham,2036,1712,2021/04/01,2022/03/31,All categories
+Haringey,1546,1425,2021/04/01,2022/03/31,All categories
+Islington,1858,1700,2021/04/01,2022/03/31,All categories
+Kensington and Chelsea,2716,2199,2021/04/01,2022/03/31,All categories
+Lambeth,1753,1600,2021/04/01,2022/03/31,All categories
+Lewisham,1359,1300,2021/04/01,2022/03/31,All categories
+Newham,1514,1474,2021/04/01,2022/03/31,All categories
+Southwark,1761,1600,2021/04/01,2022/03/31,All categories
+Tower Hamlets,1663,1575,2021/04/01,2022/03/31,All categories
+Wandsworth,1957,1750,2021/04/01,2022/03/31,All categories
+Westminster,2359,2000,2021/04/01,2022/03/31,All categories
+Barking and Dagenham,1281,1275,2021/04/01,2022/03/31,All categories
+Barnet,1461,1350,2021/04/01,2022/03/31,All categories
+Bexley,1198,1168,2021/04/01,2022/03/31,All categories
+Brent,1486,1450,2021/04/01,2022/03/31,All categories
+Bromley,1393,1300,2021/04/01,2022/03/31,All categories
+Croydon,1241,1200,2021/04/01,2022/03/31,All categories
+Ealing,1542,1400,2021/04/01,2022/03/31,All categories
+Enfield,1359,1300,2021/04/01,2022/03/31,All categories
+Greenwich,1484,1375,2021/04/01,2022/03/31,All categories
+Harrow,1407,1350,2021/04/01,2022/03/31,All categories
+Havering,1217,1200,2021/04/01,2022/03/31,All categories
+Hillingdon,1208,1175,2021/04/01,2022/03/31,All categories
+Hounslow,1447,1350,2021/04/01,2022/03/31,All categories
+Kingston upon Thames,1519,1350,2021/04/01,2022/03/31,All categories
+Merton,1686,1475,2021/04/01,2022/03/31,All categories
+Redbridge,1324,1250,2021/04/01,2022/03/31,All categories
+Richmond upon Thames,1895,1600,2021/04/01,2022/03/31,All categories
+Sutton,1170,1100,2021/04/01,2022/03/31,All categories
+Waltham Forest,1381,1300,2021/04/01,2022/03/31,All categories
+Camden,829.0,843.0,2018/10/01,2019/09/30,Room
+Hackney,712.0,675.0,2018/10/01,2019/09/30,Room
+Hammersmith and Fulham,,,2018/10/01,2019/09/30,Room
+Haringey,637.0,613.0,2018/10/01,2019/09/30,Room
+Islington,750.0,750.0,2018/10/01,2019/09/30,Room
+Kensington and Chelsea,916.0,883.0,2018/10/01,2019/09/30,Room
+Lambeth,581.0,600.0,2018/10/01,2019/09/30,Room
+Lewisham,588.0,575.0,2018/10/01,2019/09/30,Room
+Newham,620.0,600.0,2018/10/01,2019/09/30,Room
+Southwark,686.0,700.0,2018/10/01,2019/09/30,Room
+Tower Hamlets,729.0,697.0,2018/10/01,2019/09/30,Room
+Wandsworth,632.0,650.0,2018/10/01,2019/09/30,Room
+Westminster,866.0,843.0,2018/10/01,2019/09/30,Room
+Barking and Dagenham,593.0,600.0,2018/10/01,2019/09/30,Room
+Barnet,600.0,600.0,2018/10/01,2019/09/30,Room
+Bexley,454.0,438.0,2018/10/01,2019/09/30,Room
+Brent,647.0,625.0,2018/10/01,2019/09/30,Room
+Bromley,549.0,550.0,2018/10/01,2019/09/30,Room
+Croydon,529.0,540.0,2018/10/01,2019/09/30,Room
+Ealing,668.0,645.0,2018/10/01,2019/09/30,Room
+Enfield,583.0,550.0,2018/10/01,2019/09/30,Room
+Greenwich,655.0,613.0,2018/10/01,2019/09/30,Room
+Harrow,571.0,537.0,2018/10/01,2019/09/30,Room
+Havering,461.0,412.0,2018/10/01,2019/09/30,Room
+Hillingdon,624.0,600.0,2018/10/01,2019/09/30,Room
+Hounslow,586.0,600.0,2018/10/01,2019/09/30,Room
+Kingston upon Thames,554.0,508.0,2018/10/01,2019/09/30,Room
+Merton,621.0,650.0,2018/10/01,2019/09/30,Room
+Redbridge,664.0,650.0,2018/10/01,2019/09/30,Room
+Richmond upon Thames,,,2018/10/01,2019/09/30,Room
+Sutton,559.0,550.0,2018/10/01,2019/09/30,Room
+Waltham Forest,579.0,600.0,2018/10/01,2019/09/30,Room
+Camden,1285.0,1250.0,2018/10/01,2019/09/30,Studio
+Hackney,1233.0,1125.0,2018/10/01,2019/09/30,Studio
+Hammersmith and Fulham,1089.0,1045.0,2018/10/01,2019/09/30,Studio
+Haringey,906.0,901.0,2018/10/01,2019/09/30,Studio
+Islington,1201.0,1105.0,2018/10/01,2019/09/30,Studio
+Kensington and Chelsea,1375.0,1350.0,2018/10/01,2019/09/30,Studio
+Lambeth,974.0,950.0,2018/10/01,2019/09/30,Studio
+Lewisham,883.0,875.0,2018/10/01,2019/09/30,Studio
+Newham,991.0,1000.0,2018/10/01,2019/09/30,Studio
+Southwark,1095.0,1013.0,2018/10/01,2019/09/30,Studio
+Tower Hamlets,1373.0,1343.0,2018/10/01,2019/09/30,Studio
+Wandsworth,1050.0,1024.0,2018/10/01,2019/09/30,Studio
+Westminster,1427.0,1387.0,2018/10/01,2019/09/30,Studio
+Barking and Dagenham,746.0,740.0,2018/10/01,2019/09/30,Studio
+Barnet,910.0,900.0,2018/10/01,2019/09/30,Studio
+Bexley,672.0,700.0,2018/10/01,2019/09/30,Studio
+Brent,919.0,900.0,2018/10/01,2019/09/30,Studio
+Bromley,746.0,750.0,2018/10/01,2019/09/30,Studio
+Croydon,745.0,750.0,2018/10/01,2019/09/30,Studio
+Ealing,917.0,935.0,2018/10/01,2019/09/30,Studio
+Enfield,835.0,825.0,2018/10/01,2019/09/30,Studio
+Greenwich,897.0,813.0,2018/10/01,2019/09/30,Studio
+Harrow,913.0,875.0,2018/10/01,2019/09/30,Studio
+Havering,664.0,670.0,2018/10/01,2019/09/30,Studio
+Hillingdon,747.0,700.0,2018/10/01,2019/09/30,Studio
+Hounslow,804.0,795.0,2018/10/01,2019/09/30,Studio
+Kingston upon Thames,853.0,850.0,2018/10/01,2019/09/30,Studio
+Merton,904.0,900.0,2018/10/01,2019/09/30,Studio
+Redbridge,781.0,795.0,2018/10/01,2019/09/30,Studio
+Richmond upon Thames,969.0,950.0,2018/10/01,2019/09/30,Studio
+Sutton,741.0,750.0,2018/10/01,2019/09/30,Studio
+Waltham Forest,813.0,825.0,2018/10/01,2019/09/30,Studio
+Camden,1694.0,1647.0,2018/10/01,2019/09/30,One Bedroom
+Hackney,1502.0,1473.0,2018/10/01,2019/09/30,One Bedroom
+Hammersmith and Fulham,1428.0,1392.0,2018/10/01,2019/09/30,One Bedroom
+Haringey,1277.0,1290.0,2018/10/01,2019/09/30,One Bedroom
+Islington,1547.0,1497.0,2018/10/01,2019/09/30,One Bedroom
+Kensington and Chelsea,2061.0,1950.0,2018/10/01,2019/09/30,One Bedroom
+Lambeth,1412.0,1400.0,2018/10/01,2019/09/30,One Bedroom
+Lewisham,1101.0,1100.0,2018/10/01,2019/09/30,One Bedroom
+Newham,1179.0,1150.0,2018/10/01,2019/09/30,One Bedroom
+Southwark,1395.0,1300.0,2018/10/01,2019/09/30,One Bedroom
+Tower Hamlets,1511.0,1430.0,2018/10/01,2019/09/30,One Bedroom
+Wandsworth,1409.0,1400.0,2018/10/01,2019/09/30,One Bedroom
+Westminster,2096.0,1950.0,2018/10/01,2019/09/30,One Bedroom
+Barking and Dagenham,974.0,997.0,2018/10/01,2019/09/30,One Bedroom
+Barnet,1164.0,1150.0,2018/10/01,2019/09/30,One Bedroom
+Bexley,833.0,825.0,2018/10/01,2019/09/30,One Bedroom
+Brent,1204.0,1200.0,2018/10/01,2019/09/30,One Bedroom
+Bromley,966.0,950.0,2018/10/01,2019/09/30,One Bedroom
+Croydon,950.0,925.0,2018/10/01,2019/09/30,One Bedroom
+Ealing,1199.0,1200.0,2018/10/01,2019/09/30,One Bedroom
+Enfield,1062.0,1050.0,2018/10/01,2019/09/30,One Bedroom
+Greenwich,1171.0,1200.0,2018/10/01,2019/09/30,One Bedroom
+Harrow,1098.0,1095.0,2018/10/01,2019/09/30,One Bedroom
+Havering,884.0,875.0,2018/10/01,2019/09/30,One Bedroom
+Hillingdon,993.0,995.0,2018/10/01,2019/09/30,One Bedroom
+Hounslow,1148.0,1075.0,2018/10/01,2019/09/30,One Bedroom
+Kingston upon Thames,1082.0,1050.0,2018/10/01,2019/09/30,One Bedroom
+Merton,1235.0,1250.0,2018/10/01,2019/09/30,One Bedroom
+Redbridge,1007.0,1000.0,2018/10/01,2019/09/30,One Bedroom
+Richmond upon Thames,1244.0,1225.0,2018/10/01,2019/09/30,One Bedroom
+Sutton,933.0,925.0,2018/10/01,2019/09/30,One Bedroom
+Waltham Forest,1063.0,1050.0,2018/10/01,2019/09/30,One Bedroom
+Camden,2272.0,2145.0,2018/10/01,2019/09/30,Two Bedrooms
+Hackney,1834.0,1733.0,2018/10/01,2019/09/30,Two Bedrooms
+Hammersmith and Fulham,2004.0,1800.0,2018/10/01,2019/09/30,Two Bedrooms
+Haringey,1603.0,1517.0,2018/10/01,2019/09/30,Two Bedrooms
+Islington,2035.0,1947.0,2018/10/01,2019/09/30,Two Bedrooms
+Kensington and Chelsea,3232.0,2817.0,2018/10/01,2019/09/30,Two Bedrooms
+Lambeth,1699.0,1650.0,2018/10/01,2019/09/30,Two Bedrooms
+Lewisham,1330.0,1300.0,2018/10/01,2019/09/30,Two Bedrooms
+Newham,1458.0,1400.0,2018/10/01,2019/09/30,Two Bedrooms
+Southwark,1705.0,1600.0,2018/10/01,2019/09/30,Two Bedrooms
+Tower Hamlets,1905.0,1750.0,2018/10/01,2019/09/30,Two Bedrooms
+Wandsworth,1782.0,1725.0,2018/10/01,2019/09/30,Two Bedrooms
+Westminster,2963.0,2600.0,2018/10/01,2019/09/30,Two Bedrooms
+Barking and Dagenham,1189.0,1200.0,2018/10/01,2019/09/30,Two Bedrooms
+Barnet,1423.0,1387.0,2018/10/01,2019/09/30,Two Bedrooms
+Bexley,1089.0,1100.0,2018/10/01,2019/09/30,Two Bedrooms
+Brent,1463.0,1430.0,2018/10/01,2019/09/30,Two Bedrooms
+Bromley,1219.0,1200.0,2018/10/01,2019/09/30,Two Bedrooms
+Croydon,1203.0,1200.0,2018/10/01,2019/09/30,Two Bedrooms
+Ealing,1437.0,1430.0,2018/10/01,2019/09/30,Two Bedrooms
+Enfield,1323.0,1300.0,2018/10/01,2019/09/30,Two Bedrooms
+Greenwich,1432.0,1350.0,2018/10/01,2019/09/30,Two Bedrooms
+Harrow,1318.0,1300.0,2018/10/01,2019/09/30,Two Bedrooms
+Havering,1112.0,1100.0,2018/10/01,2019/09/30,Two Bedrooms
+Hillingdon,1264.0,1250.0,2018/10/01,2019/09/30,Two Bedrooms
+Hounslow,1404.0,1313.0,2018/10/01,2019/09/30,Two Bedrooms
+Kingston upon Thames,1354.0,1300.0,2018/10/01,2019/09/30,Two Bedrooms
+Merton,1476.0,1408.0,2018/10/01,2019/09/30,Two Bedrooms
+Redbridge,1283.0,1265.0,2018/10/01,2019/09/30,Two Bedrooms
+Richmond upon Thames,1648.0,1595.0,2018/10/01,2019/09/30,Two Bedrooms
+Sutton,1194.0,1200.0,2018/10/01,2019/09/30,Two Bedrooms
+Waltham Forest,1302.0,1300.0,2018/10/01,2019/09/30,Two Bedrooms
+Camden,3233.0,2860.0,2018/10/01,2019/09/30,Three Bedrooms
+Hackney,2476.0,2400.0,2018/10/01,2019/09/30,Three Bedrooms
+Hammersmith and Fulham,2720.0,2600.0,2018/10/01,2019/09/30,Three Bedrooms
+Haringey,2019.0,1950.0,2018/10/01,2019/09/30,Three Bedrooms
+Islington,2404.0,2275.0,2018/10/01,2019/09/30,Three Bedrooms
+Kensington and Chelsea,4849.0,4196.0,2018/10/01,2019/09/30,Three Bedrooms
+Lambeth,2296.0,2200.0,2018/10/01,2019/09/30,Three Bedrooms
+Lewisham,1660.0,1600.0,2018/10/01,2019/09/30,Three Bedrooms
+Newham,1702.0,1658.0,2018/10/01,2019/09/30,Three Bedrooms
+Southwark,2046.0,2000.0,2018/10/01,2019/09/30,Three Bedrooms
+Tower Hamlets,2349.0,2150.0,2018/10/01,2019/09/30,Three Bedrooms
+Wandsworth,2275.0,2250.0,2018/10/01,2019/09/30,Three Bedrooms
+Westminster,4826.0,3750.0,2018/10/01,2019/09/30,Three Bedrooms
+Barking and Dagenham,1418.0,1400.0,2018/10/01,2019/09/30,Three Bedrooms
+Barnet,1877.0,1798.0,2018/10/01,2019/09/30,Three Bedrooms
+Bexley,1285.0,1300.0,2018/10/01,2019/09/30,Three Bedrooms
+Brent,1822.0,1750.0,2018/10/01,2019/09/30,Three Bedrooms
+Bromley,1525.0,1500.0,2018/10/01,2019/09/30,Three Bedrooms
+Croydon,1424.0,1425.0,2018/10/01,2019/09/30,Three Bedrooms
+Ealing,1755.0,1699.0,2018/10/01,2019/09/30,Three Bedrooms
+Enfield,1661.0,1560.0,2018/10/01,2019/09/30,Three Bedrooms
+Greenwich,1714.0,1600.0,2018/10/01,2019/09/30,Three Bedrooms
+Harrow,1605.0,1600.0,2018/10/01,2019/09/30,Three Bedrooms
+Havering,1377.0,1350.0,2018/10/01,2019/09/30,Three Bedrooms
+Hillingdon,1466.0,1500.0,2018/10/01,2019/09/30,Three Bedrooms
+Hounslow,1682.0,1600.0,2018/10/01,2019/09/30,Three Bedrooms
+Kingston upon Thames,1665.0,1625.0,2018/10/01,2019/09/30,Three Bedrooms
+Merton,1833.0,1750.0,2018/10/01,2019/09/30,Three Bedrooms
+Redbridge,1568.0,1550.0,2018/10/01,2019/09/30,Three Bedrooms
+Richmond upon Thames,2189.0,1950.0,2018/10/01,2019/09/30,Three Bedrooms
+Sutton,1510.0,1500.0,2018/10/01,2019/09/30,Three Bedrooms
+Waltham Forest,1621.0,1610.0,2018/10/01,2019/09/30,Three Bedrooms
+Camden,5839.0,3950.0,2018/10/01,2019/09/30,Four or more Bedrooms
+Hackney,2974.0,3000.0,2018/10/01,2019/09/30,Four or more Bedrooms
+Hammersmith and Fulham,4753.0,4008.0,2018/10/01,2019/09/30,Four or more Bedrooms
+Haringey,2587.0,2348.0,2018/10/01,2019/09/30,Four or more Bedrooms
+Islington,3422.0,3163.0,2018/10/01,2019/09/30,Four or more Bedrooms
+Kensington and Chelsea,8350.0,7324.0,2018/10/01,2019/09/30,Four or more Bedrooms
+Lambeth,3043.0,3000.0,2018/10/01,2019/09/30,Four or more Bedrooms
+Lewisham,2368.0,2375.0,2018/10/01,2019/09/30,Four or more Bedrooms
+Newham,2010.0,1946.0,2018/10/01,2019/09/30,Four or more Bedrooms
+Southwark,2833.0,2700.0,2018/10/01,2019/09/30,Four or more Bedrooms
+Tower Hamlets,2776.0,2708.0,2018/10/01,2019/09/30,Four or more Bedrooms
+Wandsworth,3263.0,3050.0,2018/10/01,2019/09/30,Four or more Bedrooms
+Westminster,8398.0,6337.0,2018/10/01,2019/09/30,Four or more Bedrooms
+Barking and Dagenham,1662.0,1650.0,2018/10/01,2019/09/30,Four or more Bedrooms
+Barnet,2859.0,2349.0,2018/10/01,2019/09/30,Four or more Bedrooms
+Bexley,1560.0,1500.0,2018/10/01,2019/09/30,Four or more Bedrooms
+Brent,2428.0,2200.0,2018/10/01,2019/09/30,Four or more Bedrooms
+Bromley,2263.0,2000.0,2018/10/01,2019/09/30,Four or more Bedrooms
+Croydon,1920.0,1835.0,2018/10/01,2019/09/30,Four or more Bedrooms
+Ealing,2481.0,2200.0,2018/10/01,2019/09/30,Four or more Bedrooms
+Enfield,2229.0,2000.0,2018/10/01,2019/09/30,Four or more Bedrooms
+Greenwich,2128.0,1850.0,2018/10/01,2019/09/30,Four or more Bedrooms
+Harrow,2173.0,1995.0,2018/10/01,2019/09/30,Four or more Bedrooms
+Havering,1837.0,1750.0,2018/10/01,2019/09/30,Four or more Bedrooms
+Hillingdon,2172.0,2000.0,2018/10/01,2019/09/30,Four or more Bedrooms
+Hounslow,2679.0,1995.0,2018/10/01,2019/09/30,Four or more Bedrooms
+Kingston upon Thames,2852.0,2500.0,2018/10/01,2019/09/30,Four or more Bedrooms
+Merton,2593.0,2500.0,2018/10/01,2019/09/30,Four or more Bedrooms
+Redbridge,2149.0,2032.0,2018/10/01,2019/09/30,Four or more Bedrooms
+Richmond upon Thames,3792.0,3250.0,2018/10/01,2019/09/30,Four or more Bedrooms
+Sutton,1936.0,1800.0,2018/10/01,2019/09/30,Four or more Bedrooms
+Waltham Forest,2033.0,1977.0,2018/10/01,2019/09/30,Four or more Bedrooms
+Camden,2536.0,2058.0,2018/10/01,2019/09/30,All categories
+Hackney,1834.0,1699.0,2018/10/01,2019/09/30,All categories
+Hammersmith and Fulham,2117.0,1690.0,2018/10/01,2019/09/30,All categories
+Haringey,1558.0,1450.0,2018/10/01,2019/09/30,All categories
+Islington,1914.0,1733.0,2018/10/01,2019/09/30,All categories
+Kensington and Chelsea,3053.0,2383.0,2018/10/01,2019/09/30,All categories
+Lambeth,1754.0,1600.0,2018/10/01,2019/09/30,All categories
+Lewisham,1324.0,1250.0,2018/10/01,2019/09/30,All categories
+Newham,1424.0,1400.0,2018/10/01,2019/09/30,All categories
+Southwark,1654.0,1517.0,2018/10/01,2019/09/30,All categories
+Tower Hamlets,1803.0,1668.0,2018/10/01,2019/09/30,All categories
+Wandsworth,1883.0,1700.0,2018/10/01,2019/09/30,All categories
+Westminster,3018.0,2383.0,2018/10/01,2019/09/30,All categories
+Barking and Dagenham,1194.0,1200.0,2018/10/01,2019/09/30,All categories
+Barnet,1523.0,1350.0,2018/10/01,2019/09/30,All categories
+Bexley,1106.0,1100.0,2018/10/01,2019/09/30,All categories
+Brent,1535.0,1452.0,2018/10/01,2019/09/30,All categories
+Bromley,1321.0,1200.0,2018/10/01,2019/09/30,All categories
+Croydon,1136.0,1100.0,2018/10/01,2019/09/30,All categories
+Ealing,1463.0,1350.0,2018/10/01,2019/09/30,All categories
+Enfield,1310.0,1250.0,2018/10/01,2019/09/30,All categories
+Greenwich,1404.0,1350.0,2018/10/01,2019/09/30,All categories
+Harrow,1407.0,1350.0,2018/10/01,2019/09/30,All categories
+Havering,1169.0,1150.0,2018/10/01,2019/09/30,All categories
+Hillingdon,1270.0,1200.0,2018/10/01,2019/09/30,All categories
+Hounslow,1432.0,1312.0,2018/10/01,2019/09/30,All categories
+Kingston upon Thames,1390.0,1277.0,2018/10/01,2019/09/30,All categories
+Merton,1530.0,1400.0,2018/10/01,2019/09/30,All categories
+Redbridge,1318.0,1250.0,2018/10/01,2019/09/30,All categories
+Richmond upon Thames,1857.0,1575.0,2018/10/01,2019/09/30,All categories
+Sutton,1167.0,1100.0,2018/10/01,2019/09/30,All categories
+Waltham Forest,1309.0,1250.0,2018/10/01,2019/09/30,All categories
+Camden,1156.0,975.0,2019/10/01,2020/09/30,Room
+Hackney,,,2019/10/01,2020/09/30,Room
+Hammersmith and Fulham,664.0,600.0,2019/10/01,2020/09/30,Room
+Haringey,668.0,675.0,2019/10/01,2020/09/30,Room
+Islington,,,2019/10/01,2020/09/30,Room
+Kensington and Chelsea,,,2019/10/01,2020/09/30,Room
+Lambeth,667.0,663.0,2019/10/01,2020/09/30,Room
+Lewisham,683.0,700.0,2019/10/01,2020/09/30,Room
+Newham,634.0,607.0,2019/10/01,2020/09/30,Room
+Southwark,699.0,700.0,2019/10/01,2020/09/30,Room
+Tower Hamlets,709.0,705.0,2019/10/01,2020/09/30,Room
+Wandsworth,,,2019/10/01,2020/09/30,Room
+Westminster,907.0,888.0,2019/10/01,2020/09/30,Room
+Barking and Dagenham,629.0,600.0,2019/10/01,2020/09/30,Room
+Barnet,,,2019/10/01,2020/09/30,Room
+Bexley,512.0,450.0,2019/10/01,2020/09/30,Room
+Brent,633.0,625.0,2019/10/01,2020/09/30,Room
+Bromley,558.0,500.0,2019/10/01,2020/09/30,Room
+Croydon,605.0,580.0,2019/10/01,2020/09/30,Room
+Ealing,784.0,780.0,2019/10/01,2020/09/30,Room
+Enfield,,,2019/10/01,2020/09/30,Room
+Greenwich,756.0,738.0,2019/10/01,2020/09/30,Room
+Harrow,603.0,600.0,2019/10/01,2020/09/30,Room
+Havering,638.0,650.0,2019/10/01,2020/09/30,Room
+Hillingdon,565.0,585.0,2019/10/01,2020/09/30,Room
+Hounslow,637.0,650.0,2019/10/01,2020/09/30,Room
+Kingston upon Thames,534.0,548.0,2019/10/01,2020/09/30,Room
+Merton,659.0,675.0,2019/10/01,2020/09/30,Room
+Redbridge,717.0,685.0,2019/10/01,2020/09/30,Room
+Richmond upon Thames,,,2019/10/01,2020/09/30,Room
+Sutton,585.0,563.0,2019/10/01,2020/09/30,Room
+Waltham Forest,615.0,607.0,2019/10/01,2020/09/30,Room
+Camden,1072.0,1000.0,2019/10/01,2020/09/30,Studio
+Hackney,1045.0,1000.0,2019/10/01,2020/09/30,Studio
+Hammersmith and Fulham,1117.0,1122.0,2019/10/01,2020/09/30,Studio
+Haringey,929.0,932.0,2019/10/01,2020/09/30,Studio
+Islington,1383.0,1309.0,2019/10/01,2020/09/30,Studio
+Kensington and Chelsea,1427.0,1408.0,2019/10/01,2020/09/30,Studio
+Lambeth,1240.0,1250.0,2019/10/01,2020/09/30,Studio
+Lewisham,894.0,850.0,2019/10/01,2020/09/30,Studio
+Newham,1124.0,1161.0,2019/10/01,2020/09/30,Studio
+Southwark,1103.0,1100.0,2019/10/01,2020/09/30,Studio
+Tower Hamlets,1398.0,1350.0,2019/10/01,2020/09/30,Studio
+Wandsworth,1065.0,1050.0,2019/10/01,2020/09/30,Studio
+Westminster,1371.0,1213.0,2019/10/01,2020/09/30,Studio
+Barking and Dagenham,729.0,730.0,2019/10/01,2020/09/30,Studio
+Barnet,906.0,900.0,2019/10/01,2020/09/30,Studio
+Bexley,688.0,700.0,2019/10/01,2020/09/30,Studio
+Brent,928.0,910.0,2019/10/01,2020/09/30,Studio
+Bromley,785.0,800.0,2019/10/01,2020/09/30,Studio
+Croydon,762.0,750.0,2019/10/01,2020/09/30,Studio
+Ealing,908.0,900.0,2019/10/01,2020/09/30,Studio
+Enfield,844.0,850.0,2019/10/01,2020/09/30,Studio
+Greenwich,957.0,850.0,2019/10/01,2020/09/30,Studio
+Harrow,871.0,875.0,2019/10/01,2020/09/30,Studio
+Havering,669.0,700.0,2019/10/01,2020/09/30,Studio
+Hillingdon,759.0,750.0,2019/10/01,2020/09/30,Studio
+Hounslow,807.0,775.0,2019/10/01,2020/09/30,Studio
+Kingston upon Thames,853.0,870.0,2019/10/01,2020/09/30,Studio
+Merton,1102.0,980.0,2019/10/01,2020/09/30,Studio
+Redbridge,775.0,760.0,2019/10/01,2020/09/30,Studio
+Richmond upon Thames,983.0,950.0,2019/10/01,2020/09/30,Studio
+Sutton,776.0,775.0,2019/10/01,2020/09/30,Studio
+Waltham Forest,827.0,850.0,2019/10/01,2020/09/30,Studio
+Camden,1619,1508,2019/10/01,2020/09/30,One Bedroom
+Hackney,1472,1425,2019/10/01,2020/09/30,One Bedroom
+Hammersmith and Fulham,1464,1408,2019/10/01,2020/09/30,One Bedroom
+Haringey,1291,1300,2019/10/01,2020/09/30,One Bedroom
+Islington,1565,1517,2019/10/01,2020/09/30,One Bedroom
+Kensington and Chelsea,2062,1950,2019/10/01,2020/09/30,One Bedroom
+Lambeth,1595,1500,2019/10/01,2020/09/30,One Bedroom
+Lewisham,1163,1150,2019/10/01,2020/09/30,One Bedroom
+Newham,1222,1200,2019/10/01,2020/09/30,One Bedroom
+Southwark,1405,1350,2019/10/01,2020/09/30,One Bedroom
+Tower Hamlets,1547,1475,2019/10/01,2020/09/30,One Bedroom
+Wandsworth,1418,1400,2019/10/01,2020/09/30,One Bedroom
+Westminster,2113,1993,2019/10/01,2020/09/30,One Bedroom
+Barking and Dagenham,981,1000,2019/10/01,2020/09/30,One Bedroom
+Barnet,1164,1150,2019/10/01,2020/09/30,One Bedroom
+Bexley,854,850,2019/10/01,2020/09/30,One Bedroom
+Brent,1195,1200,2019/10/01,2020/09/30,One Bedroom
+Bromley,1006,1000,2019/10/01,2020/09/30,One Bedroom
+Croydon,964,950,2019/10/01,2020/09/30,One Bedroom
+Ealing,1238,1250,2019/10/01,2020/09/30,One Bedroom
+Enfield,979,950,2019/10/01,2020/09/30,One Bedroom
+Greenwich,1242,1250,2019/10/01,2020/09/30,One Bedroom
+Harrow,1059,1075,2019/10/01,2020/09/30,One Bedroom
+Havering,891,900,2019/10/01,2020/09/30,One Bedroom
+Hillingdon,1058,1000,2019/10/01,2020/09/30,One Bedroom
+Hounslow,1159,1100,2019/10/01,2020/09/30,One Bedroom
+Kingston upon Thames,1090,1078,2019/10/01,2020/09/30,One Bedroom
+Merton,1233,1250,2019/10/01,2020/09/30,One Bedroom
+Redbridge,1030,1040,2019/10/01,2020/09/30,One Bedroom
+Richmond upon Thames,1281,1250,2019/10/01,2020/09/30,One Bedroom
+Sutton,923,925,2019/10/01,2020/09/30,One Bedroom
+Waltham Forest,1122,1100,2019/10/01,2020/09/30,One Bedroom
+Camden,2254.0,2150.0,2019/10/01,2020/09/30,Two Bedrooms
+Hackney,1814.0,1750.0,2019/10/01,2020/09/30,Two Bedrooms
+Hammersmith and Fulham,1922.0,1842.0,2019/10/01,2020/09/30,Two Bedrooms
+Haringey,1601.0,1517.0,2019/10/01,2020/09/30,Two Bedrooms
+Islington,1934.0,1842.0,2019/10/01,2020/09/30,Two Bedrooms
+Kensington and Chelsea,3030.0,2708.0,2019/10/01,2020/09/30,Two Bedrooms
+Lambeth,1893.0,1700.0,2019/10/01,2020/09/30,Two Bedrooms
+Lewisham,1372.0,1350.0,2019/10/01,2020/09/30,Two Bedrooms
+Newham,1513.0,1450.0,2019/10/01,2020/09/30,Two Bedrooms
+Southwark,1753.0,1668.0,2019/10/01,2020/09/30,Two Bedrooms
+Tower Hamlets,1933.0,1778.0,2019/10/01,2020/09/30,Two Bedrooms
+Wandsworth,1792.0,1750.0,2019/10/01,2020/09/30,Two Bedrooms
+Westminster,2920.0,2708.0,2019/10/01,2020/09/30,Two Bedrooms
+Barking and Dagenham,1208.0,1200.0,2019/10/01,2020/09/30,Two Bedrooms
+Barnet,1410.0,1400.0,2019/10/01,2020/09/30,Two Bedrooms
+Bexley,1105.0,1100.0,2019/10/01,2020/09/30,Two Bedrooms
+Brent,1447.0,1430.0,2019/10/01,2020/09/30,Two Bedrooms
+Bromley,1256.0,1250.0,2019/10/01,2020/09/30,Two Bedrooms
+Croydon,1215.0,1200.0,2019/10/01,2020/09/30,Two Bedrooms
+Ealing,1531.0,1495.0,2019/10/01,2020/09/30,Two Bedrooms
+Enfield,1301.0,1300.0,2019/10/01,2020/09/30,Two Bedrooms
+Greenwich,1477.0,1400.0,2019/10/01,2020/09/30,Two Bedrooms
+Harrow,1345.0,1350.0,2019/10/01,2020/09/30,Two Bedrooms
+Havering,1120.0,1100.0,2019/10/01,2020/09/30,Two Bedrooms
+Hillingdon,1277.0,1275.0,2019/10/01,2020/09/30,Two Bedrooms
+Hounslow,1387.0,1300.0,2019/10/01,2020/09/30,Two Bedrooms
+Kingston upon Thames,1359.0,1333.0,2019/10/01,2020/09/30,Two Bedrooms
+Merton,1532.0,1500.0,2019/10/01,2020/09/30,Two Bedrooms
+Redbridge,1293.0,1275.0,2019/10/01,2020/09/30,Two Bedrooms
+Richmond upon Thames,1692.0,1600.0,2019/10/01,2020/09/30,Two Bedrooms
+Sutton,1163.0,1150.0,2019/10/01,2020/09/30,Two Bedrooms
+Waltham Forest,1364.0,1328.0,2019/10/01,2020/09/30,Two Bedrooms
+Camden,2880.0,2492.0,2019/10/01,2020/09/30,Three Bedrooms
+Hackney,2419.0,2399.0,2019/10/01,2020/09/30,Three Bedrooms
+Hammersmith and Fulham,2653.0,2492.0,2019/10/01,2020/09/30,Three Bedrooms
+Haringey,2019.0,2000.0,2019/10/01,2020/09/30,Three Bedrooms
+Islington,2487.0,2345.0,2019/10/01,2020/09/30,Three Bedrooms
+Kensington and Chelsea,4938.0,4584.0,2019/10/01,2020/09/30,Three Bedrooms
+Lambeth,2531.0,2400.0,2019/10/01,2020/09/30,Three Bedrooms
+Lewisham,1665.0,1613.0,2019/10/01,2020/09/30,Three Bedrooms
+Newham,1754.0,1700.0,2019/10/01,2020/09/30,Three Bedrooms
+Southwark,2195.0,2100.0,2019/10/01,2020/09/30,Three Bedrooms
+Tower Hamlets,2365.0,2235.0,2019/10/01,2020/09/30,Three Bedrooms
+Wandsworth,2297.0,2250.0,2019/10/01,2020/09/30,Three Bedrooms
+Westminster,4152.0,3878.0,2019/10/01,2020/09/30,Three Bedrooms
+Barking and Dagenham,1441.0,1400.0,2019/10/01,2020/09/30,Three Bedrooms
+Barnet,1801.0,1800.0,2019/10/01,2020/09/30,Three Bedrooms
+Bexley,1281.0,1300.0,2019/10/01,2020/09/30,Three Bedrooms
+Brent,1829.0,1776.0,2019/10/01,2020/09/30,Three Bedrooms
+Bromley,1594.0,1550.0,2019/10/01,2020/09/30,Three Bedrooms
+Croydon,1439.0,1450.0,2019/10/01,2020/09/30,Three Bedrooms
+Ealing,1955.0,1850.0,2019/10/01,2020/09/30,Three Bedrooms
+Enfield,1569.0,1533.0,2019/10/01,2020/09/30,Three Bedrooms
+Greenwich,1775.0,1650.0,2019/10/01,2020/09/30,Three Bedrooms
+Harrow,1650.0,1650.0,2019/10/01,2020/09/30,Three Bedrooms
+Havering,1384.0,1375.0,2019/10/01,2020/09/30,Three Bedrooms
+Hillingdon,1435.0,1400.0,2019/10/01,2020/09/30,Three Bedrooms
+Hounslow,1726.0,1650.0,2019/10/01,2020/09/30,Three Bedrooms
+Kingston upon Thames,1707.0,1700.0,2019/10/01,2020/09/30,Three Bedrooms
+Merton,1981.0,1900.0,2019/10/01,2020/09/30,Three Bedrooms
+Redbridge,1589.0,1600.0,2019/10/01,2020/09/30,Three Bedrooms
+Richmond upon Thames,2238.0,2000.0,2019/10/01,2020/09/30,Three Bedrooms
+Sutton,1498.0,1500.0,2019/10/01,2020/09/30,Three Bedrooms
+Waltham Forest,1649.0,1650.0,2019/10/01,2020/09/30,Three Bedrooms
+Camden,3983.0,3400.0,2019/10/01,2020/09/30,Four or more Bedrooms
+Hackney,3159.0,3200.0,2019/10/01,2020/09/30,Four or more Bedrooms
+Hammersmith and Fulham,4780.0,4117.0,2019/10/01,2020/09/30,Four or more Bedrooms
+Haringey,2541.0,2400.0,2019/10/01,2020/09/30,Four or more Bedrooms
+Islington,3537.0,3402.0,2019/10/01,2020/09/30,Four or more Bedrooms
+Kensington and Chelsea,7585.0,6717.0,2019/10/01,2020/09/30,Four or more Bedrooms
+Lambeth,3161.0,3175.0,2019/10/01,2020/09/30,Four or more Bedrooms
+Lewisham,2292.0,2200.0,2019/10/01,2020/09/30,Four or more Bedrooms
+Newham,2077.0,2000.0,2019/10/01,2020/09/30,Four or more Bedrooms
+Southwark,2718.0,2650.0,2019/10/01,2020/09/30,Four or more Bedrooms
+Tower Hamlets,2845.0,2675.0,2019/10/01,2020/09/30,Four or more Bedrooms
+Wandsworth,3157.0,3000.0,2019/10/01,2020/09/30,Four or more Bedrooms
+Westminster,8505.0,7323.0,2019/10/01,2020/09/30,Four or more Bedrooms
+Barking and Dagenham,1655.0,1675.0,2019/10/01,2020/09/30,Four or more Bedrooms
+Barnet,2594.0,2413.0,2019/10/01,2020/09/30,Four or more Bedrooms
+Bexley,1724.0,1550.0,2019/10/01,2020/09/30,Four or more Bedrooms
+Brent,2210.0,2100.0,2019/10/01,2020/09/30,Four or more Bedrooms
+Bromley,2280.0,2000.0,2019/10/01,2020/09/30,Four or more Bedrooms
+Croydon,1940.0,1873.0,2019/10/01,2020/09/30,Four or more Bedrooms
+Ealing,2804.0,2500.0,2019/10/01,2020/09/30,Four or more Bedrooms
+Enfield,1991.0,1826.0,2019/10/01,2020/09/30,Four or more Bedrooms
+Greenwich,2205.0,2200.0,2019/10/01,2020/09/30,Four or more Bedrooms
+Harrow,2050.0,1950.0,2019/10/01,2020/09/30,Four or more Bedrooms
+Havering,1714.0,1655.0,2019/10/01,2020/09/30,Four or more Bedrooms
+Hillingdon,1946.0,1857.0,2019/10/01,2020/09/30,Four or more Bedrooms
+Hounslow,2583.0,2125.0,2019/10/01,2020/09/30,Four or more Bedrooms
+Kingston upon Thames,2412.0,2200.0,2019/10/01,2020/09/30,Four or more Bedrooms
+Merton,2733.0,2650.0,2019/10/01,2020/09/30,Four or more Bedrooms
+Redbridge,2124.0,2000.0,2019/10/01,2020/09/30,Four or more Bedrooms
+Richmond upon Thames,3942.0,3500.0,2019/10/01,2020/09/30,Four or more Bedrooms
+Sutton,1915.0,1895.0,2019/10/01,2020/09/30,Four or more Bedrooms
+Waltham Forest,2026.0,2000.0,2019/10/01,2020/09/30,Four or more Bedrooms
+Camden,2012,1750,2019/10/01,2020/09/30,All categories
+Hackney,1860,1710,2019/10/01,2020/09/30,All categories
+Hammersmith and Fulham,2016,1694,2019/10/01,2020/09/30,All categories
+Haringey,1644,1500,2019/10/01,2020/09/30,All categories
+Islington,1908,1733,2019/10/01,2020/09/30,All categories
+Kensington and Chelsea,2977,2383,2019/10/01,2020/09/30,All categories
+Lambeth,1961,1768,2019/10/01,2020/09/30,All categories
+Lewisham,1322,1300,2019/10/01,2020/09/30,All categories
+Newham,1476,1430,2019/10/01,2020/09/30,All categories
+Southwark,1720,1603,2019/10/01,2020/09/30,All categories
+Tower Hamlets,1810,1675,2019/10/01,2020/09/30,All categories
+Wandsworth,1948,1749,2019/10/01,2020/09/30,All categories
+Westminster,2822,2395,2019/10/01,2020/09/30,All categories
+Barking and Dagenham,1206,1200,2019/10/01,2020/09/30,All categories
+Barnet,1485,1400,2019/10/01,2020/09/30,All categories
+Bexley,1113,1100,2019/10/01,2020/09/30,All categories
+Brent,1494,1450,2019/10/01,2020/09/30,All categories
+Bromley,1318,1225,2019/10/01,2020/09/30,All categories
+Croydon,1155,1129,2019/10/01,2020/09/30,All categories
+Ealing,1568,1425,2019/10/01,2020/09/30,All categories
+Enfield,1301,1265,2019/10/01,2020/09/30,All categories
+Greenwich,1494,1400,2019/10/01,2020/09/30,All categories
+Harrow,1445,1442,2019/10/01,2020/09/30,All categories
+Havering,1175,1150,2019/10/01,2020/09/30,All categories
+Hillingdon,1244,1250,2019/10/01,2020/09/30,All categories
+Hounslow,1416,1300,2019/10/01,2020/09/30,All categories
+Kingston upon Thames,1288,1250,2019/10/01,2020/09/30,All categories
+Merton,1639,1495,2019/10/01,2020/09/30,All categories
+Redbridge,1311,1250,2019/10/01,2020/09/30,All categories
+Richmond upon Thames,1940,1620,2019/10/01,2020/09/30,All categories
+Sutton,1133,1100,2019/10/01,2020/09/30,All categories
+Waltham Forest,1359,1300,2019/10/01,2020/09/30,All categories
+Camden,776.0,775.0,2020/10/01,2021/09/30,Room
+Hackney,641.0,642.0,2020/10/01,2021/09/30,Room
+Hammersmith and Fulham,627.0,560.0,2020/10/01,2021/09/30,Room
+Haringey,597.0,600.0,2020/10/01,2021/09/30,Room
+Islington,677.0,675.0,2020/10/01,2021/09/30,Room
+Kensington and Chelsea,,,2020/10/01,2021/09/30,Room
+Lambeth,587.0,580.0,2020/10/01,2021/09/30,Room
+Lewisham,692.0,673.0,2020/10/01,2021/09/30,Room
+Newham,665.0,675.0,2020/10/01,2021/09/30,Room
+Southwark,718.0,725.0,2020/10/01,2021/09/30,Room
+Tower Hamlets,658.0,650.0,2020/10/01,2021/09/30,Room
+Wandsworth,500.0,500.0,2020/10/01,2021/09/30,Room
+Westminster,796.0,758.0,2020/10/01,2021/09/30,Room
+Barking and Dagenham,514.0,575.0,2020/10/01,2021/09/30,Room
+Barnet,632.0,650.0,2020/10/01,2021/09/30,Room
+Bexley,527.0,500.0,2020/10/01,2021/09/30,Room
+Brent,576.0,563.0,2020/10/01,2021/09/30,Room
+Bromley,608.0,600.0,2020/10/01,2021/09/30,Room
+Croydon,739.0,825.0,2020/10/01,2021/09/30,Room
+Ealing,715.0,700.0,2020/10/01,2021/09/30,Room
+Enfield,690.0,600.0,2020/10/01,2021/09/30,Room
+Greenwich,651.0,650.0,2020/10/01,2021/09/30,Room
+Harrow,579.0,550.0,2020/10/01,2021/09/30,Room
+Havering,644.0,675.0,2020/10/01,2021/09/30,Room
+Hillingdon,585.0,550.0,2020/10/01,2021/09/30,Room
+Hounslow,596.0,600.0,2020/10/01,2021/09/30,Room
+Kingston upon Thames,577.0,550.0,2020/10/01,2021/09/30,Room
+Merton,680.0,650.0,2020/10/01,2021/09/30,Room
+Redbridge,757.0,695.0,2020/10/01,2021/09/30,Room
+Richmond upon Thames,730.0,705.0,2020/10/01,2021/09/30,Room
+Sutton,593.0,575.0,2020/10/01,2021/09/30,Room
+Waltham Forest,673.0,700.0,2020/10/01,2021/09/30,Room
+Camden,1009.0,960.0,2020/10/01,2021/09/30,Studio
+Hackney,1022.0,1000.0,2020/10/01,2021/09/30,Studio
+Hammersmith and Fulham,1054.0,1040.0,2020/10/01,2021/09/30,Studio
+Haringey,871.0,875.0,2020/10/01,2021/09/30,Studio
+Islington,1058.0,1000.0,2020/10/01,2021/09/30,Studio
+Kensington and Chelsea,1284.0,1278.0,2020/10/01,2021/09/30,Studio
+Lambeth,1098.0,954.0,2020/10/01,2021/09/30,Studio
+Lewisham,896.0,898.0,2020/10/01,2021/09/30,Studio
+Newham,1143.0,1208.0,2020/10/01,2021/09/30,Studio
+Southwark,1132.0,1050.0,2020/10/01,2021/09/30,Studio
+Tower Hamlets,1195.0,1170.0,2020/10/01,2021/09/30,Studio
+Wandsworth,1024.0,1000.0,2020/10/01,2021/09/30,Studio
+Westminster,1314.0,1213.0,2020/10/01,2021/09/30,Studio
+Barking and Dagenham,765.0,750.0,2020/10/01,2021/09/30,Studio
+Barnet,932.0,908.0,2020/10/01,2021/09/30,Studio
+Bexley,776.0,775.0,2020/10/01,2021/09/30,Studio
+Brent,874.0,850.0,2020/10/01,2021/09/30,Studio
+Bromley,807.0,800.0,2020/10/01,2021/09/30,Studio
+Croydon,797.0,800.0,2020/10/01,2021/09/30,Studio
+Ealing,985.0,975.0,2020/10/01,2021/09/30,Studio
+Enfield,816.0,850.0,2020/10/01,2021/09/30,Studio
+Greenwich,959.0,900.0,2020/10/01,2021/09/30,Studio
+Harrow,796.0,800.0,2020/10/01,2021/09/30,Studio
+Havering,770.0,750.0,2020/10/01,2021/09/30,Studio
+Hillingdon,840.0,795.0,2020/10/01,2021/09/30,Studio
+Hounslow,819.0,800.0,2020/10/01,2021/09/30,Studio
+Kingston upon Thames,867.0,850.0,2020/10/01,2021/09/30,Studio
+Merton,923.0,900.0,2020/10/01,2021/09/30,Studio
+Redbridge,783.0,800.0,2020/10/01,2021/09/30,Studio
+Richmond upon Thames,954.0,918.0,2020/10/01,2021/09/30,Studio
+Sutton,790.0,785.0,2020/10/01,2021/09/30,Studio
+Waltham Forest,835.0,850.0,2020/10/01,2021/09/30,Studio
+Camden,1587,1450,2020/10/01,2021/09/30,One Bedroom
+Hackney,1405,1350,2020/10/01,2021/09/30,One Bedroom
+Hammersmith and Fulham,1446,1400,2020/10/01,2021/09/30,One Bedroom
+Haringey,1246,1250,2020/10/01,2021/09/30,One Bedroom
+Islington,1442,1400,2020/10/01,2021/09/30,One Bedroom
+Kensington and Chelsea,1892,1777,2020/10/01,2021/09/30,One Bedroom
+Lambeth,1348,1300,2020/10/01,2021/09/30,One Bedroom
+Lewisham,1148,1100,2020/10/01,2021/09/30,One Bedroom
+Newham,1295,1325,2020/10/01,2021/09/30,One Bedroom
+Southwark,1370,1300,2020/10/01,2021/09/30,One Bedroom
+Tower Hamlets,1391,1350,2020/10/01,2021/09/30,One Bedroom
+Wandsworth,1385,1350,2020/10/01,2021/09/30,One Bedroom
+Westminster,1968,1842,2020/10/01,2021/09/30,One Bedroom
+Barking and Dagenham,990,1000,2020/10/01,2021/09/30,One Bedroom
+Barnet,1154,1150,2020/10/01,2021/09/30,One Bedroom
+Bexley,912,900,2020/10/01,2021/09/30,One Bedroom
+Brent,1157,1150,2020/10/01,2021/09/30,One Bedroom
+Bromley,1021,1000,2020/10/01,2021/09/30,One Bedroom
+Croydon,1003,975,2020/10/01,2021/09/30,One Bedroom
+Ealing,1222,1220,2020/10/01,2021/09/30,One Bedroom
+Enfield,1035,1000,2020/10/01,2021/09/30,One Bedroom
+Greenwich,1192,1200,2020/10/01,2021/09/30,One Bedroom
+Harrow,1059,1050,2020/10/01,2021/09/30,One Bedroom
+Havering,914,900,2020/10/01,2021/09/30,One Bedroom
+Hillingdon,1022,1000,2020/10/01,2021/09/30,One Bedroom
+Hounslow,1107,1050,2020/10/01,2021/09/30,One Bedroom
+Kingston upon Thames,1085,1098,2020/10/01,2021/09/30,One Bedroom
+Merton,1223,1200,2020/10/01,2021/09/30,One Bedroom
+Redbridge,1049,1050,2020/10/01,2021/09/30,One Bedroom
+Richmond upon Thames,1253,1250,2020/10/01,2021/09/30,One Bedroom
+Sutton,928,925,2020/10/01,2021/09/30,One Bedroom
+Waltham Forest,1114,1100,2020/10/01,2021/09/30,One Bedroom
+Camden,2142,2000,2020/10/01,2021/09/30,Two Bedrooms
+Hackney,1748,1650,2020/10/01,2021/09/30,Two Bedrooms
+Hammersmith and Fulham,1906,1751,2020/10/01,2021/09/30,Two Bedrooms
+Haringey,1521,1475,2020/10/01,2021/09/30,Two Bedrooms
+Islington,1873,1820,2020/10/01,2021/09/30,Two Bedrooms
+Kensington and Chelsea,2746,2555,2020/10/01,2021/09/30,Two Bedrooms
+Lambeth,1664,1600,2020/10/01,2021/09/30,Two Bedrooms
+Lewisham,1390,1350,2020/10/01,2021/09/30,Two Bedrooms
+Newham,1580,1583,2020/10/01,2021/09/30,Two Bedrooms
+Southwark,1729,1630,2020/10/01,2021/09/30,Two Bedrooms
+Tower Hamlets,1717,1650,2020/10/01,2021/09/30,Two Bedrooms
+Wandsworth,1789,1725,2020/10/01,2021/09/30,Two Bedrooms
+Westminster,2666,2470,2020/10/01,2021/09/30,Two Bedrooms
+Barking and Dagenham,1211,1200,2020/10/01,2021/09/30,Two Bedrooms
+Barnet,1406,1400,2020/10/01,2021/09/30,Two Bedrooms
+Bexley,1166,1150,2020/10/01,2021/09/30,Two Bedrooms
+Brent,1426,1400,2020/10/01,2021/09/30,Two Bedrooms
+Bromley,1300,1300,2020/10/01,2021/09/30,Two Bedrooms
+Croydon,1249,1250,2020/10/01,2021/09/30,Two Bedrooms
+Ealing,1512,1495,2020/10/01,2021/09/30,Two Bedrooms
+Enfield,1329,1300,2020/10/01,2021/09/30,Two Bedrooms
+Greenwich,1452,1400,2020/10/01,2021/09/30,Two Bedrooms
+Harrow,1328,1300,2020/10/01,2021/09/30,Two Bedrooms
+Havering,1151,1150,2020/10/01,2021/09/30,Two Bedrooms
+Hillingdon,1271,1275,2020/10/01,2021/09/30,Two Bedrooms
+Hounslow,1353,1300,2020/10/01,2021/09/30,Two Bedrooms
+Kingston upon Thames,1390,1350,2020/10/01,2021/09/30,Two Bedrooms
+Merton,1518,1450,2020/10/01,2021/09/30,Two Bedrooms
+Redbridge,1282,1250,2020/10/01,2021/09/30,Two Bedrooms
+Richmond upon Thames,1664,1600,2020/10/01,2021/09/30,Two Bedrooms
+Sutton,1171,1160,2020/10/01,2021/09/30,Two Bedrooms
+Waltham Forest,1377,1350,2020/10/01,2021/09/30,Two Bedrooms
+Camden,2915.0,2545.0,2020/10/01,2021/09/30,Three Bedrooms
+Hackney,2309.0,2220.0,2020/10/01,2021/09/30,Three Bedrooms
+Hammersmith and Fulham,2577.0,2472.0,2020/10/01,2021/09/30,Three Bedrooms
+Haringey,1931.0,1800.0,2020/10/01,2021/09/30,Three Bedrooms
+Islington,2336.0,2200.0,2020/10/01,2021/09/30,Three Bedrooms
+Kensington and Chelsea,4480.0,4117.0,2020/10/01,2021/09/30,Three Bedrooms
+Lambeth,2197.0,2150.0,2020/10/01,2021/09/30,Three Bedrooms
+Lewisham,1702.0,1650.0,2020/10/01,2021/09/30,Three Bedrooms
+Newham,1813.0,1750.0,2020/10/01,2021/09/30,Three Bedrooms
+Southwark,2163.0,2100.0,2020/10/01,2021/09/30,Three Bedrooms
+Tower Hamlets,2110.0,2000.0,2020/10/01,2021/09/30,Three Bedrooms
+Wandsworth,2270.0,2200.0,2020/10/01,2021/09/30,Three Bedrooms
+Westminster,3999.0,3575.0,2020/10/01,2021/09/30,Three Bedrooms
+Barking and Dagenham,1425.0,1400.0,2020/10/01,2021/09/30,Three Bedrooms
+Barnet,1815.0,1800.0,2020/10/01,2021/09/30,Three Bedrooms
+Bexley,1396.0,1400.0,2020/10/01,2021/09/30,Three Bedrooms
+Brent,1782.0,1750.0,2020/10/01,2021/09/30,Three Bedrooms
+Bromley,1627.0,1600.0,2020/10/01,2021/09/30,Three Bedrooms
+Croydon,1535.0,1500.0,2020/10/01,2021/09/30,Three Bedrooms
+Ealing,1915.0,1800.0,2020/10/01,2021/09/30,Three Bedrooms
+Enfield,1625.0,1600.0,2020/10/01,2021/09/30,Three Bedrooms
+Greenwich,1743.0,1650.0,2020/10/01,2021/09/30,Three Bedrooms
+Harrow,1646.0,1650.0,2020/10/01,2021/09/30,Three Bedrooms
+Havering,1393.0,1395.0,2020/10/01,2021/09/30,Three Bedrooms
+Hillingdon,1452.0,1475.0,2020/10/01,2021/09/30,Three Bedrooms
+Hounslow,1668.0,1600.0,2020/10/01,2021/09/30,Three Bedrooms
+Kingston upon Thames,1761.0,1725.0,2020/10/01,2021/09/30,Three Bedrooms
+Merton,1961.0,1850.0,2020/10/01,2021/09/30,Three Bedrooms
+Redbridge,1599.0,1600.0,2020/10/01,2021/09/30,Three Bedrooms
+Richmond upon Thames,2126.0,1900.0,2020/10/01,2021/09/30,Three Bedrooms
+Sutton,1507.0,1500.0,2020/10/01,2021/09/30,Three Bedrooms
+Waltham Forest,1685.0,1650.0,2020/10/01,2021/09/30,Three Bedrooms
+Camden,3995.0,3152.0,2020/10/01,2021/09/30,Four or more Bedrooms
+Hackney,3000.0,3050.0,2020/10/01,2021/09/30,Four or more Bedrooms
+Hammersmith and Fulham,4237.0,3900.0,2020/10/01,2021/09/30,Four or more Bedrooms
+Haringey,2501.0,2300.0,2020/10/01,2021/09/30,Four or more Bedrooms
+Islington,3308.0,3200.0,2020/10/01,2021/09/30,Four or more Bedrooms
+Kensington and Chelsea,7858.0,7200.0,2020/10/01,2021/09/30,Four or more Bedrooms
+Lambeth,2977.0,3000.0,2020/10/01,2021/09/30,Four or more Bedrooms
+Lewisham,2325.0,2200.0,2020/10/01,2021/09/30,Four or more Bedrooms
+Newham,2008.0,1920.0,2020/10/01,2021/09/30,Four or more Bedrooms
+Southwark,3043.0,2900.0,2020/10/01,2021/09/30,Four or more Bedrooms
+Tower Hamlets,2825.0,2750.0,2020/10/01,2021/09/30,Four or more Bedrooms
+Wandsworth,3185.0,3200.0,2020/10/01,2021/09/30,Four or more Bedrooms
+Westminster,7618.0,6533.0,2020/10/01,2021/09/30,Four or more Bedrooms
+Barking and Dagenham,1729.0,1700.0,2020/10/01,2021/09/30,Four or more Bedrooms
+Barnet,2454.0,2350.0,2020/10/01,2021/09/30,Four or more Bedrooms
+Bexley,1853.0,1800.0,2020/10/01,2021/09/30,Four or more Bedrooms
+Brent,2188.0,2100.0,2020/10/01,2021/09/30,Four or more Bedrooms
+Bromley,2323.0,2010.0,2020/10/01,2021/09/30,Four or more Bedrooms
+Croydon,1966.0,1900.0,2020/10/01,2021/09/30,Four or more Bedrooms
+Ealing,2551.0,2426.0,2020/10/01,2021/09/30,Four or more Bedrooms
+Enfield,2169.0,2100.0,2020/10/01,2021/09/30,Four or more Bedrooms
+Greenwich,2322.0,2000.0,2020/10/01,2021/09/30,Four or more Bedrooms
+Harrow,2059.0,2000.0,2020/10/01,2021/09/30,Four or more Bedrooms
+Havering,1752.0,1720.0,2020/10/01,2021/09/30,Four or more Bedrooms
+Hillingdon,2181.0,2000.0,2020/10/01,2021/09/30,Four or more Bedrooms
+Hounslow,2325.0,1900.0,2020/10/01,2021/09/30,Four or more Bedrooms
+Kingston upon Thames,2504.0,2200.0,2020/10/01,2021/09/30,Four or more Bedrooms
+Merton,2917.0,2650.0,2020/10/01,2021/09/30,Four or more Bedrooms
+Redbridge,2052.0,1931.0,2020/10/01,2021/09/30,Four or more Bedrooms
+Richmond upon Thames,3610.0,3313.0,2020/10/01,2021/09/30,Four or more Bedrooms
+Sutton,1974.0,1950.0,2020/10/01,2021/09/30,Four or more Bedrooms
+Waltham Forest,2016.0,1950.0,2020/10/01,2021/09/30,Four or more Bedrooms
+Camden,1936,1675,2020/10/01,2021/09/30,All categories
+Hackney,1733,1600,2020/10/01,2021/09/30,All categories
+Hammersmith and Fulham,1964,1647,2020/10/01,2021/09/30,All categories
+Haringey,1533,1400,2020/10/01,2021/09/30,All categories
+Islington,1787,1625,2020/10/01,2021/09/30,All categories
+Kensington and Chelsea,2712,2171,2020/10/01,2021/09/30,All categories
+Lambeth,1731,1600,2020/10/01,2021/09/30,All categories
+Lewisham,1350,1300,2020/10/01,2021/09/30,All categories
+Newham,1510,1474,2020/10/01,2021/09/30,All categories
+Southwark,1732,1600,2020/10/01,2021/09/30,All categories
+Tower Hamlets,1649,1550,2020/10/01,2021/09/30,All categories
+Wandsworth,1902,1700,2020/10/01,2021/09/30,All categories
+Westminster,2528,2167,2020/10/01,2021/09/30,All categories
+Barking and Dagenham,1227,1200,2020/10/01,2021/09/30,All categories
+Barnet,1448,1350,2020/10/01,2021/09/30,All categories
+Bexley,1204,1200,2020/10/01,2021/09/30,All categories
+Brent,1467,1400,2020/10/01,2021/09/30,All categories
+Bromley,1359,1258,2020/10/01,2021/09/30,All categories
+Croydon,1240,1200,2020/10/01,2021/09/30,All categories
+Ealing,1511,1400,2020/10/01,2021/09/30,All categories
+Enfield,1342,1300,2020/10/01,2021/09/30,All categories
+Greenwich,1444,1350,2020/10/01,2021/09/30,All categories
+Harrow,1386,1350,2020/10/01,2021/09/30,All categories
+Havering,1201,1195,2020/10/01,2021/09/30,All categories
+Hillingdon,1260,1200,2020/10/01,2021/09/30,All categories
+Hounslow,1378,1300,2020/10/01,2021/09/30,All categories
+Kingston upon Thames,1437,1305,2020/10/01,2021/09/30,All categories
+Merton,1639,1450,2020/10/01,2021/09/30,All categories
+Redbridge,1318,1250,2020/10/01,2021/09/30,All categories
+Richmond upon Thames,1768,1550,2020/10/01,2021/09/30,All categories
+Sutton,1144,1100,2020/10/01,2021/09/30,All categories
+Waltham Forest,1366,1300,2020/10/01,2021/09/30,All categories
