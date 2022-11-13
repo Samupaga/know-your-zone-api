@@ -1,18 +1,18 @@
 DROP TABLE IF EXISTS age_data; 
 
-CREATE TABLE age__data (
+CREATE TABLE age_data (
     id INT GENERATED ALWAYS AS IDENTITY,
     borough_id INT, 
-    0-9 INT,
-    10-17 INT,
-    18-26 INT,
-    27-35 INT,
-    36-44 INT, 
-    45-53 INT,
-    54-62 INT, 
-    63-71 INT,
-    72-80 INT, 
-    81+ INT, 
+    a0_9 INT,
+    a10_17 INT,
+    a18_26 INT,
+    a27_35 INT,
+    a36_44 INT, 
+    a45_53 INT,
+    a54_62 INT, 
+    a63_71 INT,
+    a72_80 INT, 
+    a81_ INT, 
     PRIMARY KEY (id),
     CONSTRAINT fk_borough
     FOREIGN KEY (borough_id)

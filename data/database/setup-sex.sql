@@ -6,7 +6,7 @@ CREATE TABLE sex_data (
     total_people INT, 
     males INT, 
     females INT, 
-    m:100f REAL, 
+    m_100f REAL, 
     PRIMARY KEY (id),
     CONSTRAINT fk_borough
     FOREIGN KEY (borough_id)
