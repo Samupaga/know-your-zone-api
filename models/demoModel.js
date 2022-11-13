@@ -1,27 +1,13 @@
 const db = require('../data/database/db');
 
 class DemoData {
-    constructor ({ borough_name, white, asian, black, other, total_population, christian, buddhist, hindu, jewish, muslim, sikh, other_religion, no_religion, total, life_satisfaction, worthwhile, happiness, anxiety, wellbeing}) {
+    constructor (borough_name, type, category_names, ranked, data) {
         this.borough_name = borough_name
-        this.white = white 
-        this.black = black
-        this.asian = asian 
-        this.other = other
-        this.total_population = total_population
-        this.christian = christian
-        this.buddhist = buddhist
-        this.hindu = hindu
-        this.jewish = jewish
-        this.muslim = muslim
-        this.sikh = sikh
-        this.other_religion = other_religion
-        this.no_religion = no_religion
-        this.total = total
-        this.life_satisfaction = life_satisfaction
-        this.worthwhile = worthwhile
-        this.happiness = happiness
-        this.anxiety = anxiety
-        this.wellbeing = wellbeing
+        this.type = type
+        this.category_names = category_names
+        this.ranked = ranked
+        this.data = data
+    }
     }
 
     static async getEthnicityByBorough(borough_name) {
