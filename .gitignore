@@ -1,6 +1,5 @@
 node_modules
 .DS_Store
 raw-data
-converted-data
 venv
 .env

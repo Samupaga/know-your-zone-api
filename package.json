@@ -6,11 +6,16 @@
   "scripts": {
     "dev": "nodemon -L index.js",
     "start": "node index.js",
-    "setup-db-rent": "node ./data/database/setup-db-rent.js",
-    "setup-db-crime": "node ./data/database/setup-db-crime.js", 
-    "setup-db-ethnicity": "node ./data/database/setup-db-ethnicity.js", 
-    "setup-db-wellbeing": "node ./data/database/setup-db-wellbeing.js",
-    "setup-db-religion": "node ./data/database/setup-db-religion.js"
+    "delete-db-tables": "node ./data/database/delete-db-tables.js",
+    "presetup-db-borough": "npm run delete-db-tables",
+    "setup-db-borough": "node ./data/database/setup-db-borough.js",
+    "setup-db-rent": "node ./data/database/setup-db-generic.js rent",
+    "setup-db-crime": "node ./data/database/setup-db-generic.js crime",
+    "setup-db-ethnicity": "node ./data/database/setup-db-generic.js ethnicity",
+    "setup-db-wellbeing": "node ./data/database/setup-db-generic.js wellbeing",
+    "setup-db-religion": "node ./data/database/setup-db-generic.js religion",
+    "presetup-db-all": "npm run setup-db-borough",
+    "setup-db-all": "run-p setup-db-rent setup-db-crime setup-db-ethnicity setup-db-wellbeing setup-db-religion"
   },
   "repository": {
     "type": "git",
@@ -32,6 +37,7 @@
   "devDependencies": {
     "csv": "^6.2.2",
     "minimist": "^1.2.7",
-    "nodemon": "^2.0.20"
+    "nodemon": "^2.0.20",
+    "npm-run-all": "^4.1.5"
   }
 }
