@@ -10,15 +10,15 @@ async function addBoroughs () {
 
         await db.query(sql)
         console.log("Setup complete.")
-
-        fs.readFile(`data/data-cleaning/converted_data/borough_names.csv`, (err, data) => {
+        // borough_data.csv has borough_name, second language spoken, motto 
+        fs.readFile(`data/data-cleaning/converted_data/borough_data.csv`, (err, data) => {
             parse(data, {columns:false, trim:true}, async (err, rows) => {
                 rowData = rows.slice(1)
 
                 for (const [i, row] of rows.slice(1).entries()) {
                     console.log("borough row:", i)
 
-                    await db.query("INSERT INTO borough (borough_name) VALUES ($1)", [row[0]])
+                    await db.query("INSERT INTO borough (borough_name, second_lang, motto) VALUES ($1, $2, $3)", [row[0], row[1], row[2]])
                 }
             })
         })
