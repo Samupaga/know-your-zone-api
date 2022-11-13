@@ -19,15 +19,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fsaiz97/know-your-zone-api.git"
+    "url": "git+https://github.com/Samupaga/know-your-zone-api.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fsaiz97/know-your-zone-api/issues"
+    "url": "https://github.com/Samupaga/know-your-zone-api/issues"
   },
-  "homepage": "https://github.com/fsaiz97/know-your-zone-api#readme",
+  "homepage": "https://github.com/Samupaga/know-your-zone-api#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
