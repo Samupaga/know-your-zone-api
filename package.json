@@ -17,7 +17,7 @@
     "setup-db-age": "node ./data/database/setup-db-generic.js age",
     "setup-db-sex": "node ./data/database/setup-db-generic.js sex",
     "presetup-db-all": "npm run setup-db-borough",
-    "setup-db-all": "run-p setup-db-rent setup-db-crime setup-db-ethnicity setup-db-wellbeing setup-db-religion setup-db-age setup-db-sex"
+    "setup-db-all": "node ./data/database/setup-db-all.js"
   },
   "repository": {
     "type": "git",
