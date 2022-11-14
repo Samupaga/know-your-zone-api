@@ -8,8 +8,9 @@ async function addData (dataCategory) {
     try {
         const sql = fs.readFileSync(`data/database/setup-${dataCategory}.sql`).toString();
 
+        console.log(`${dataCategory}: Table setup started`)
         await db.query(sql)
-        console.log("Setup complete.")
+        console.log("${dataCategory}: Table setup complete.")
 
         const boroughData = await db.query("SELECT id, borough_name FROM borough ORDER BY id")
         const boroughs = {}
@@ -19,9 +20,9 @@ async function addData (dataCategory) {
             parse(data, {columns:false, trim:true}, async (err, rows) => {
                 rowData = rows.slice(1)
 
+                console.log(`${dataCategory}: Data inserts started`)
                 for (const [i, row] of rows.slice(1).entries()) {
                     const boroughId = boroughs[row[0]]
-                    // console.log(`${dataCategory} row:`, i)
 
                     if (dataCategory === "ethnicity") {
                         await db.query("INSERT INTO ethnicity_data (borough_id, white, asian, black, other, total_population) VALUES ($1, $2, $3, $4, $5, $6)", [boroughId, row[1], row[2], row[3], row[4], row[5]])
@@ -39,9 +40,11 @@ async function addData (dataCategory) {
                         await db.query("INSERT INTO age_data (borough_id, a0_9, a10_17, a18_26, a27_35, a36_44, a45_53, a54_62, a63_71, a72_80, a81_) VALUES ($1, $2, $3, $4, $5, $6, $7, $8 ,$9, $10, $11)", [boroughId, row[1],row[2], row[3], row[4], row[5], row[6], row[7], row[8], row[9], row[10]])
                     } 
                 }
+                console.log(`${dataCategory}: Data inserts finished`)
             })
         })
     } catch (err) {
+        console.log(`${dataCategory}: Error occured`)
         console.error(err)
     }
 }

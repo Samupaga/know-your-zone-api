@@ -17,8 +17,6 @@ class RentalData {
         WHERE property_type = 'All categories' AND period_end_date = (SELECT DISTINCT period_end_date FROM rental_data ORDER BY period_end_date DESC LIMIT 1)
         GROUP BY period_start_date, period_end_date, property_type`)
 
-        console.log(...Object.values(response.rows[0]))
-
         return new RentalData(Object.assign({borough_name: "London"}, response.rows[0]))
     }
 
