@@ -10,7 +10,7 @@ async function addData (dataCategory) {
 
         console.log(`${dataCategory}: Table setup started`)
         await db.query(sql)
-        console.log("${dataCategory}: Table setup complete.")
+        console.log(`${dataCategory}: Table setup complete.`)
 
         const boroughData = await db.query("SELECT id, borough_name FROM borough ORDER BY id")
         const boroughs = {}
