@@ -18,7 +18,7 @@ async function showReligion (req, res) {
     } catch (err) {
         res.status(404).json({'error': err.message})
     }
-}
+};
 
 async function showWellbeing (req, res) {
     try {
@@ -28,9 +28,29 @@ async function showWellbeing (req, res) {
     } catch (err) {
         res.status(404).json({'error': err.message})
     }
-}
+};
+
+async function showAge (req, res) {
+    try {
+        const name = req.params.borough
+        const borough = await DemoData.getAgeByBorough(name)
+        res.status(200).json(borough)
+    } catch (err) {
+        res.status(404).json({'error' : err.message})
+    }
+};
+
+async function showSex (req, res) {
+    try {
+        const name = req.params.borough
+        const borough = await DemoData.getSexByBorough(name)
+        res.status(200).json(borough)
+    } catch (err) {
+        res.status(404).json({'error' : err.message})
+    }
+};
 
 
 module.exports = {
-    showEthnicity, showReligion, showWellbeing
+    showEthnicity, showReligion, showWellbeing, showAge, showSex
 }; 
