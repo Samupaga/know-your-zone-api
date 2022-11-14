@@ -34,7 +34,8 @@ class DemoData {
     }
 
     static async getReligionByBorough(borough_name) {
-        const response = await db.query(`SELECT borough_name, christian, buddhist, hindu, jewish, muslim, sikh, other_religion, no_religion, no_religion, total FROM religion_data JOIN borough ON religion_data.borough_id = borough.id WHERE borough_name = $1`, [borough_name])
+        const response = await db.query(`SELECT borough_name, christian, buddhist, hindu, jewish, muslim, sikh, other_religion, no_religion, total FROM religion_data JOIN borough ON religion_data.borough_id = borough.id WHERE borough_name = $1`, [borough_name])
+        console.log(response.rows[0])
 
         const [boroughName, categories, data] = DemoData.#queryDataHandler(response.rows[0], true)
 
