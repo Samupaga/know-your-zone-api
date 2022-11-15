@@ -56,7 +56,7 @@ class Summary {
 
         const checkout = await Summary.getBoroughCheck(boroughName)
 
-        return new Summary(boroughName, rentalResponse.rent_median, rentBelowLondon, crimeResponse.six_month_crime_rate_per_1000, crimeBelowLondon, second_lang, motto);
+        return new Summary(boroughName, rentalResponse.rent_median, rentBelowLondon, crimeResponse.six_month_crime_rate_per_1000, crimeBelowLondon, second_lang, motto, expect, checkout);
     }
 }
 
