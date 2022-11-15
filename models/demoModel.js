@@ -11,15 +11,14 @@ class DemoData {
 
     static #queryDataHandler(queryData, isRanked) {
         const categories = Object.keys(queryData).filter(elem => elem !== 'borough_name')
-        const data = {}
+        const data = []
+
+        for (const category of categories) {
+            data.push({category: category, value: queryData[category]})
+        }
 
         if (isRanked) {
-            const categoryValuesSorted = categories.map(category => [category, queryData[category]]).sort((a, b) => b[1] - a[1])
-            for (const [index, category] of categoryValuesSorted.entries()) {
-                data[category[0]] = {value: category[1], rank: index+1}
-            }
-        } else {
-            categories.forEach(category => data[category] = queryData[category])
+            data.sort((a, b) => b.value - a.value)
         }
 
         return [queryData.borough_name, categories, data]
