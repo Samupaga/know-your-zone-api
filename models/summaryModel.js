@@ -3,7 +3,7 @@ const CrimeData = require('./crimeModel')
 const db = require('../data/database/db')
 
 class Summary {
-    constructor(borough_name, average_monthly_rent, rent_below_london_average, crime_rate_per_1000, crime_below_london_average, second_lang, motto) {
+    constructor(borough_name, average_monthly_rent, rent_below_london_average, crime_rate_per_1000, crime_below_london_average, second_lang, motto, expect, checkout) {
         this.borough_name = borough_name
         this.average_monthly_rent = average_monthly_rent
         this.rent_below_london_average = rent_below_london_average
@@ -12,7 +12,7 @@ class Summary {
         this.second_lang = second_lang
         this.motto = motto
         this.expect = expect
-        this.checkout = check
+        this.checkout = checkout
     }
 
     static async getBoroughMotto(boroughName) {
@@ -34,7 +34,7 @@ class Summary {
     }
 
     static async getBoroughCheck(boroughName) {
-        const response = await db.query("SELECT check FROM borough WHERE borough_name = $1", [boroughName])
+        const response = await db.query("SELECT checkout FROM borough WHERE borough_name = $1", [boroughName])
 
         return response.rows[0].checkout
     }
