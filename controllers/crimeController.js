@@ -10,6 +10,16 @@ async function showLatestAverage (req, res) {
     }
 };
 
+async function showAverageHistory (req, res) {
+    try {
+        const name = req.params.borough
+        const data = await CrimeData.getCrimeHistoryByBorough(name)
+        res.status(200).json(data)
+    } catch (err) {
+        res.status(404).json({'error': err.message})
+    }
+}
+
 async function showCrimesTypes (req, res) {
     try {
         const name = req.params.borough
@@ -22,5 +32,6 @@ async function showCrimesTypes (req, res) {
 
 module.exports = {
     showLatestAverage,
-    showCrimesTypes
+    showCrimesTypes,
+    showAverageHistory
 };
