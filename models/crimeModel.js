@@ -17,23 +17,20 @@ class CrimeData {
         return response.rows[0]
     }
 
-    // get average crime count by borough 
     static async getCrimeByBorough(boroughName) {
-        const population = 400000
-        const popPer1000 = population/1000
-        const response = await db.query(`SELECT (SUM(offence_count::real)/6)/$2 AS six_month_crime_rate_per_1000 FROM "public"."crime_data" JOIN borough ON crime_data.borough_id = borough.id WHERE period IN (SELECT DISTINCT period FROM crime_data ORDER BY period DESC LIMIT 6) AND borough_name = $1`, [boroughName, popPer1000])
+        const pop_response = await db.query('SELECT total_population FROM ethnicity_data JOIN borough ON ethnicity_data.borough_id = borough.id WHERE borough_name = $1', [boroughName])
+        const population = pop_response.rows[0].total_population/1000
+        const response = await db.query(`SELECT (SUM(offence_count::real)/12)/$2 AS six_month_crime_rate_per_1000 FROM "public"."crime_data" JOIN borough ON crime_data.borough_id = borough.id WHERE period IN (SELECT DISTINCT period FROM crime_data ORDER BY period DESC LIMIT 12) AND borough_name = $1`, [boroughName, population])
 
         return response.rows[0]
     }
 
     static async getCrimeByTypes(boroughName, crimeCategories) {
-        const population = 400000
-        const popPer1000 = population/1000
         const crimeCategoriesJoined = crimeCategories.map(elem => `'${elem}'`).join(', ')
 
         let crimeStats = []
         for (const category of crimeCategories) {
-            const response = await db.query(`SELECT borough_name, offence_category, (SUM(offence_count::real)/6)/$2 AS offence_count FROM crime_data JOIN borough ON crime_data.borough_id = borough.id WHERE borough_name = $1 AND period IN (SELECT DISTINCT period FROM crime_data ORDER BY period DESC LIMIT 6) AND offence_category = $3 GROUP BY offence_category, borough_name`, [boroughName, popPer1000, category])
+            const response = await db.query(`SELECT borough_name, offence_category, SUM(offence_count) as offence_count FROM crime_data JOIN borough ON crime_data.borough_id = borough.id WHERE borough_name = $1 AND period IN (SELECT DISTINCT period FROM crime_data ORDER BY period DESC LIMIT 12) AND offence_category = $2 GROUP BY offence_category, borough_name`, [boroughName, category])
 
             crimeStats.push(new CrimeData(response.rows[0]))
         }
