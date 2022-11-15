@@ -11,6 +11,8 @@ class Summary {
         this.crime_below_london_average = crime_below_london_average
         this.second_lang = second_lang
         this.motto = motto
+        this.expect = expect
+        this.checkout = check
     }
 
     static async getBoroughMotto(boroughName) {
@@ -25,6 +27,18 @@ class Summary {
         return response.rows[0].second_lang
     }
 
+    static async getBoroughExpect(boroughName) {
+        const response = await db.query("SELECT expect FROM borough WHERE borough_name = $1", [boroughName])
+
+        return response.rows[0].expect
+    }
+
+    static async getBoroughCheck(boroughName) {
+        const response = await db.query("SELECT check FROM borough WHERE borough_name = $1", [boroughName])
+
+        return response.rows[0].checkout
+    }
+
     static async getOneByName(boroughName) {
         const rentalResponse = await RentalData.getRentByBorough(boroughName)
         const londonRentResponse = await RentalData.getAllLondon()
@@ -37,6 +51,10 @@ class Summary {
         const second_lang = await Summary.getBoroughLang(boroughName)
 
         const motto = await Summary.getBoroughMotto(boroughName)
+
+        const expect = await Summary.getBoroughExpect(boroughName)
+
+        const checkout = await Summary.getBoroughCheck(boroughName)
 
         return new Summary(boroughName, rentalResponse.rent_median, rentBelowLondon, crimeResponse.six_month_crime_rate_per_1000, crimeBelowLondon, second_lang, motto);
     }
