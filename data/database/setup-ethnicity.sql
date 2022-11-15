@@ -8,6 +8,7 @@ CREATE TABLE ethnicity_data (
     black INT, 
     other INT, 
     total_population INT, 
+    second_lang VARCHAR(50), 
     PRIMARY KEY (id),
     CONSTRAINT fk_borough
     FOREIGN KEY (borough_id)
