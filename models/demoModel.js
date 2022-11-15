@@ -28,7 +28,7 @@ class DemoData {
     static async getEthnicityByBorough(borough_name) {
         const ranked = true
         
-        const response = await db.query(`SELECT borough_name, white, black, asian, other FROM ethnicity_data JOIN borough ON ethnicity_data.borough_id = borough.id WHERE borough_name = $1`, [borough_name])
+        const response = await db.query(`SELECT borough_name, white, black, asian, other, second_lang FROM ethnicity_data JOIN borough ON ethnicity_data.borough_id = borough.id WHERE borough_name = $1`, [borough_name])
 
         const [boroughName, categories, data] = DemoData.#queryDataHandler(response.rows[0], ranked)
 
