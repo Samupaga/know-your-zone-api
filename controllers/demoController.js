@@ -6,7 +6,7 @@ async function showEthnicity (req, res) {
         const borough = await DemoData.getEthnicityByBorough(name)
         res.status(200).json(borough)
     } catch (err) {
-        res.status(404).json({'eroor': err.message})
+        res.status(404).json({'error': err.message})
     }
 }; 
 
