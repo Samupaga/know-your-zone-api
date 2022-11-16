@@ -35,7 +35,9 @@ async function addData (dataCategory, db) {
                         db.query("INSERT INTO sex_data (borough_id, total_people, males, females, m_100f) VALUES ($1, $2, $3, $4, $5)", [boroughId, row[1], row[2], row[3], row[4]])
                     } else if (dataCategory === 'age') {
                         db.query("INSERT INTO age_data (borough_id, a0_9, a10_17, a18_26, a27_35, a36_44, a45_53, a54_62, a63_71, a72_80, a81_) VALUES ($1, $2, $3, $4, $5, $6, $7, $8 ,$9, $10, $11)", [boroughId, row[1],row[2], row[3], row[4], row[5], row[6], row[7], row[8], row[9], row[10]])
-                    } 
+                    } else if (dataCategory === 'household') {
+                        db.query("INSERT INTO household_data (borough_id, one_person, married_couple, civil_partnership, cohabiting_couple, lone_parent, multi_person) VALUES ($1, $2, $3, $4, $5, $6, $7)", [boroughId, row[1],row[2], row[3], row[4], row[5], row[6]])
+                    }
                 }
                 console.log(`${dataCategory}: Data inserts finished`)
             })

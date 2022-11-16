@@ -16,6 +16,7 @@
     "setup-db-religion": "node ./data/database/setup-db-generic.js religion",
     "setup-db-age": "node ./data/database/setup-db-generic.js age",
     "setup-db-sex": "node ./data/database/setup-db-generic.js sex",
+    "setup-db-household": "node ./data/database/setup-db-generic.js household",
     "presetup-db-all": "npm run setup-db-borough",
     "setup-db-all": "node ./data/database/setup-db-all.js"
   },
