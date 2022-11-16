@@ -41,8 +41,9 @@ class Summary {
 
     static async getOneByName(boroughName) {
         const rentalResponse = await RentalData.getRentByBorough(boroughName)
+        const medianRent = rentalResponse[0].rent_median
         const londonRentResponse = await RentalData.getAllLondon()
-        const rentBelowLondon = rentalResponse.rent_median < londonRentResponse.rent_median
+        const rentBelowLondon = medianRent < londonRentResponse.rent_median
 
         const crimeResponse = await CrimeData.getCrimeByBorough(boroughName)
         const londonCrimeResponse = await CrimeData.getAllLondon()
@@ -56,7 +57,7 @@ class Summary {
 
         const checkout = await Summary.getBoroughCheck(boroughName)
 
-        return new Summary(boroughName, rentalResponse.rent_median, rentBelowLondon, crimeResponse.six_month_crime_rate_per_1000, crimeBelowLondon, second_lang, motto, expect, checkout);
+        return new Summary(boroughName, medianRent, rentBelowLondon, crimeResponse.six_month_crime_rate_per_1000, crimeBelowLondon, second_lang, motto, expect, checkout);
     }
 }
 

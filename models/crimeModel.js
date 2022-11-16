@@ -25,6 +25,14 @@ class CrimeData {
         return response.rows[0]
     }
 
+    static async getCrimeHistoryByBorough(boroughName) {
+        const pop_response = await db.query('SELECT total_population FROM ethnicity_data JOIN borough ON ethnicity_data.borough_id = borough.id WHERE borough_name = $1', [boroughName])
+        const population = pop_response.rows[0].total_population/1000
+        const response = await db.query(`SELECT period, (SUM(offence_count::real))/$2 AS crime_rate FROM "public"."crime_data" JOIN borough ON crime_data.borough_id = borough.id AND borough_name = $1 GROUP BY period ORDER BY period DESC`, [boroughName, population])
+
+        return response.rows
+    }
+
     static async getCrimeByTypes(boroughName, crimeCategories) {
         const crimeCategoriesJoined = crimeCategories.map(elem => `'${elem}'`).join(', ')
 
