@@ -73,6 +73,16 @@ class DemoData {
 
         return new DemoData(boroughName, 'sex', categories, ranked, data)
     }
+
+    static async getHouseholdByBorough(borough_name) {
+        const ranked = true
+
+        const response = await db.query(`SELECT borough_name, one_person, married_couple, civil_partnership, cohabiting_couple, lone_parent, multi_person FROM household_data JOIN borough ON household_data.borough_id = borough.id WHERE borough_name = $1`, [borough_name])
+
+        const [boroughName, categories, data] = DemoData.#queryDataHandler(response.rows[0], ranked)
+
+        return new DemoData(boroughName, 'household', categories, ranked, data)
+    }
 }
 
 module.exports = DemoData;

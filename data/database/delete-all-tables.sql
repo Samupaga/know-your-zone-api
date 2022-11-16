@@ -5,4 +5,5 @@ DROP TABLE IF EXISTS rental_data;
 DROP TABLE IF EXISTS wellbeing_data;
 DROP TABLE IF EXISTS sex_data;
 DROP TABLE IF EXISTS age_data; 
+DROP TABLE IF EXISTS household_data;
 DROP TABLE IF EXISTS borough;

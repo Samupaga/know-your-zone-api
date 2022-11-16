@@ -50,7 +50,17 @@ async function showSex (req, res) {
     }
 };
 
+async function showHousehold (req, res) {
+    try {
+        const name = req.params.borough
+        const borough = await DemoData.getHouseholdByBorough(name)
+        res.status(200).json(borough)
+    } catch (err) {
+        res.status(404).json({'error' : err.message})
+    }
+}; 
+
 
 module.exports = {
-    showEthnicity, showReligion, showWellbeing, showAge, showSex
+    showEthnicity, showReligion, showWellbeing, showAge, showSex, showHousehold
 }; 
