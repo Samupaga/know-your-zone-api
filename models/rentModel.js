@@ -27,7 +27,7 @@ class RentalData {
     }
 
     static async getRentPerCategoryByBorough(borough_name) {
-        const response = await db.query("SELECT borough_name, period_start_date, period_end_date, property_type, rent_median, rent_mean FROM rental_data JOIN borough ON rental_data.borough_id = borough.id WHERE borough_name = $1 AND property_type != 'All categories' AND period_end_date = (SELECT DISTINCT period_end_date FROM rental_data ORDER BY period_end_date DESC LIMIT 1)", [borough_name])
+        const response = await db.query("SELECT borough_name, period_start_date, period_end_date, property_type, rent_median, rent_mean FROM rental_data JOIN borough ON rental_data.borough_id = borough.id WHERE borough_name = $1 AND property_type != 'All categories' AND period_end_date = (SELECT DISTINCT period_end_date FROM rental_data ORDER BY period_end_date DESC LIMIT 1) ORDER BY property_type", [borough_name])
 
         return response.rows.map(elem => new RentalData(elem))
     }

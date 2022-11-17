@@ -34,7 +34,6 @@ class CrimeData {
     }
 
     static async getCrimeByTypes(boroughName, crimeCategories) {
-        const crimeCategoriesJoined = crimeCategories.map(elem => `'${elem}'`).join(', ')
 
         let crimeStats = []
         for (const category of crimeCategories) {
